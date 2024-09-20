@@ -1,0 +1,544 @@
+Question: Do you prefer quality or price when shopping?
+Answer: I prefer quantity to quality when shopping.
+Correction: I prefer <del>quantity</del> <span style="color:red;"> price</span> to quality when shopping.
+
+To do
+
+Engaging remarks: specific to each essay
+Clear and easy-to-understand
+suggestions and explanations
+
+
+For shorter essays (three sentences or 30-50 words long) or essays with a lot of mistakes, the entire comment should be simple and easy to understand. The overall comment should not be too long either as these students might get intimidated at the sight of a long comment and not read it.
+
+
+Simple comment
+
+Problems faced:
+o Matching the student’s apparent
+English proficiency
+
+Sample: simple comment for a three-sentence essay
+Question Describe what you would often do when you were an elementary school student.
+
+Answer sample
+I used to exchange notebooks with my friends. I was doing a secret story with everyone in
+the exchange notebooks. It was fun to talk to everyone in secret.
+
+Answer sample (corrected)
+I used to exchange notebooks with my friends. I was doing writing a secret stories with
+everyone in the exchange notebooks. It was fun to talk to everyone in secret.
+
+In this sample, the student did not make a lot of mistakes, so the student might not seem weak in
+
+English. However, writing this much is probably the student’s limit (hence, the teacher chose three-
+sentence questions), so you should still avoid writing a long comment.
+
+
+Comment (1): Recollecting memories of our younger days feels refreshing as we had fewer
+things to worry about in our childhood. I’m sure the secret stories you made were fun to
+write. You have done a fantastic job with your answer. In your second sentence, “write”
+needs to be used because stories are to be written rather than done. You could also write,
+“I was doing a secret story-writing activity with...” Also, you mentioned “notebooks” (more
+than one notebook), which logically leads to the inference that you wrote more than one
+story as well. That’s why you should use the plural form (stories). Overall, you did well.
+Keep it up. You have the potential to do very well. Continue practicing. I wish you the best.
+This comment is both engaging and helpful, but it is more than 120 words long and has complicated
+and long sentences. Even if we disregard the long first sentence, the explanations are presented in a
+difficult way. The student could not write even three sentences correctly, so such a comment would be
+
+difficult for the student to understand and learn from.
+
+
+Comment (2): Recollecting memories of our younger days feels refreshing. I’m sure the
+secret stories you made were fun to write. You have done a fantastic job with your answer.
+In your second sentence, you need to use “write” because we write stories. You could also
+write, “I was doing a secret story-writing activity with...” Also, you mentioned “notebooks”
+(more than one notebook), so I think that you wrote more than one story as well. That’s why
+you should use the plural form (stories). Overall, you did well. Keep it up. You have the
+potential to do very well. Continue practicing. I wish you the best.
+
+As a corrector, you have excellent English skills, so advanced and difficult structures and words may come naturally to you. However, it’s important to tone it down for the student. Even if you do end up writing something difficult, try to detect and simplify it when you revise your work before submission.
+
+(The edited version is 104 words long.)
+
+
+Engaging comment
+
+Problems faced:
+o Not enough content to comment on
+(i.e., three sentence essays)
+o Generalized points leading to
+generalized comment on content
+
+
+Sample: engaging comment for a three-sentence answer
+Question: Recommend your favorite novel to your classmates. Write three sentences including the writer and the title.
+Answer sample
+I recommend Seirei no Moribito. It was written by Nahoko Uehashi. Please read it!
+Comment (1): That’s a great answer! You have properly recommended your favorite novel
+and also mentioned the name of the author. Good job!
+Comment (2): This is my first time learning about Seirei no Moribito. I looked it up
+online and found that it was also made into an anime. The novel must be quite popular!
+I hope your classmates also enjoy the novel.
+
+Remarks that can be written for any answer on a topic (regardless of the answer’s content) are considered
+generalized. You should share your thoughts about points from the answer, not on the topic/question.
+
+
+Sample: commenting on a general answer (1)
+Question: The positive or negative influences of convenience stores
+Answer sample
+I personally believe convenience stores have a positive influence on Japanese society.
+First, we can buy something from a convenience store anytime because it is open 24
+hours a day. Second, we can buy a wide range of products of consistent quality at
+convenience stores anytime, anywhere. There are various things such as food and
+stationery. For these reasons, I think that convenience stores have a good impact on our
+society.
+
+When the student’s points are generalized, your comment may end up being generalized too. However, you should try to make your comment specific to the essay at hand. Capitalize on any possible unique points from the answer to make your comment specific.
+
+Comment (1): Convenience stores are indeed necessary for Japanese society. People can
+go and buy things they need whenever they want from convenience stores since they
+are open around the clock. You are right that convenience stores have a positive
+influence and make lives easier.
+
+Comment (2): Convenience stores are indeed necessary for Japanese society. People can
+go and buy things they need whenever they want from convenience stores since they
+are open around the clock. A variety of goods can fulfill the needs of many people.
+
+Here, both samples may seem generalized from an objective point of view. However, from a subjective
+point of view, the second sample is relatively more specific because it presents the corrector’s thoughts on a certain point from the student’s answer (the answer sample from the previous page).
+
+
+Sample: commenting on a general answer (2)
+Question: The positive or negative influences of Convenience stores
+Answer sample
+I personally believe convenience stores have a positive influence on Japanese society.
+First, convenience stores are open 24 hours a day, so we can go there anytime. Second, we
+can buy a wide range of products from these stores. There are various things such as food,
+drinks, and stationery. For these reasons, I think that convenience stores have a good
+impact on our society.
+Comment sample
+Convenience stores are definitely helpful for people in Japan. People can go and buy
+things they need at any time from convenience stores since they are open all day. The
+examples of products clearly show that the stores offer a variety of goods.
+
+Try to actively use different words and expressions so that the teachers don’t think that you are copy-pasting the same engaging remarks.
+
+Helpful guidance
+
+Problems faced:
+
+o Which errors to prioritize
+o Presenting the explanations and
+suggestions clearly
+
+Due to the limitations in a comment’s structure and length, we cannot point out all the errors a student
+made. We can’t also know which of the corrections a certain student might want to know about. Thus, we
+
+need to prioritize more important errors to have a balanced comment.
+
+Helpful advice: Priority grid
+(from the Dos and Don’ts of Comments)
+
+Cohesion issues: Repeated/major grammatical errors, Simple grammatical errors
+Logical errors 
+Structural errors
+
+Here importance is upper to lower
+
+After choosing what points to address in the comment, present them CLEARLY and SIMPLY.
+
+When you point out errors, you need to provide some explanation. Simply describing the error or correction will not help the student understand it. The student can already
+see from the correction how a certain error must be fixed. Some errors may be hard to explain; you may share alternative expressions to show the student how different
+words could be used (i.e., a word from the student’s answer that couldn’t be kept in the correction).
+
+Sample: clear and easy-to-understand explanation (1)
+Question: Do you prefer Japanese food or Western food?
+Answer excerpt
+Japanese meals have various ingredients. I feel when I eat Japanese food.
+Correction
+Japanese meals have various ingredients. I feel satisfied when I eat Japanese food.
+Comment (1): Instead of only “I feel”, you need to write “I feel satisfied” to complete
+the meaning.
+
+Comment (2): To clearly describe how you feel, you can write “I feel satisfied” or “I feel
+happy” in the nth sentence.
+
+The 1st sample might make the student wonder why that certain wording must be used. The 2nd sample provides a clearer explanation and shows the student yet another possible expression.
+
+About missing words
+
+The same type of explanation may or may not be okay given the type of error itself. When the missing word is a significant part of the sentence structure, it can be acceptable to tell the student that it was missing/necessary as shown in the following page. Of course, you should still try to give detailed explanations when you have enough space in the comment.
+
+Error type: point of difference
+
+Type 1:
+
+Mistake: Parents should allow children use the internet freely.
+Sample Correction: Parents should allow children  <span style="color:red;">to</span> use the internet freely.
+Comment: There’s a missing preposition in your nth sentence, so I added “to”. (Not preferred)
+It is correct to say “allow someone to do something”: adding “to” is necessary in
+this structure. That’s why I added “to” in your nth sentence. (Preferred)
+
+Type 2:
+Mistake: Allow children to use the internet freely.
+Sample Correction: <span style="color:red;">Parents should a</span>llow children to use the internet freely.
+Comment: There’s a missing subject in your nth sentence, so I added “Parents”.
+ or
+The nth sentence feels as if you are giving an order to the reader. However, parents are the
+ones who would allow their children to do something, so you need to write the subject (parents) clearly.
+
+Special points
+
+o Respecting the student’s perspective
+
+o Logical and cohesion issues
+
+Sample: Respecting the student’s perspective
+Question: Should all universities in Japan be free?
+Answer excerpt
+I don’t think that all universities in Japan should be free. Without tuition fees,
+universities will have to rely on the government for funds. The lack of funds may lead
+to a decrease in the level of education quality. The government will have to increase
+taxes to support universities. The increasing tax will be a burden on all citizens.
+
+You might have a different opinion/choice for any topic, and you are allowed to express it in the comment. However, your opinion should not oppose the student’s opinion. You can offer your ideas as a supplement, not a replacement.
+
+Comment (1): Thank you for sharing your opinion. Additional taxes will increase people’s
+financial burden. I think that universities should be free because this will help many poor
+students. If the high tuition fees are waived, everyone can get equal opportunities to
+study in university and use their knowledge to contribute to society. However, I respect
+your opinion.
+(The student’s opinion is opposed)
+
+Comment (2): Thank you for sharing your opinion. You have clearly explained that making
+universities free is not economically feasible. I personally think that the high tuition fees
+deprive many poor students from university education. I hope that the government and
+universities can provide ample scholarship opportunities for such students.
+(The student’s opinion is respected)
+
+The second sample respects the student’s perspective while also expressing the corrector’s concern for the poor students who do need free university education.
+
+
+Sample: a unique case of cohesion issue
+Question: What effects do you think global warming will have on Japan? What actions would you take to prevent these effects?
+Answer
+Ise lobsters can be harvested in large quantities due to the effects of global warming. Many
+people have a habit of viewing global warming in a negative way direction. So Therefore, I
+dared to focus on the benefits here. As the temperature of the Sea of Japan rises, the
+environment becomes more comfortable for spiny lobsters, and the population is will rapidly
+increase. Fishermen will become happy! Let's make spiny lobster fast food!
+
+A unique perspective on global warming (utilizing the effects rather than preventing them)
+No clarification regarding the effect on Japan (a cohesion issue)
+
+Addressing the cohesive issue
+Advice (1): It would be better if you mentioned some effects of global warming
+according to the question. For example, you could mention the rise in ocean
+temperature having an effect on the fishing industry in Japan. As preventive measures,
+you could write about reducing ocean pollution and CO2 emissions. (The student’s opinion is opposed)
+
+Advice (2): You can actually present this as a preventive measure for food shortage.
+Due to global warming, many fishes will be extinct or will migrate to other areas.
+That may lead to a seafood shortage in Japan. However, harvesting Ise lobsters can
+prevent that shortage. If you mention this, your essay will meet all the requirements
+of the topic. (The student’s opinion is respected)
+
+Logical issues in your writing
+
+You might write some of the remarks below in an attempt to engage with the students and encourage them. However, some students and teachers have reported them as the correctors don’t really talk with the students or observe their timely progress. We recommend using different expressions.
+
+“I enjoyed reading your essay and talking about it with you.”
+“I enjoyed reading your essay.”
+
+“You’re doing better than before.”
+
+“You are doing well.” or
+“You must be studying English hard.”
+
+
+Reminders & updates
+Coordinating conjunctions in informal writing
+
+Story: Last Sunday, when I was reading a book at home, suddenly there was a knock on
+the door. That surprised me because I wasn’t expecting anyone. So I decided to look
+through the peephole. I saw some children running away. Therefore, I thought it
+was a prank.
+
+Email to a friend: Dear Mary
+Are you free this Sunday? I have two tickets for a baseball match. You told me
+once that you want to watch a local game. So I thought it would be fun to go
+together.
+Stories and emails to friends can be written in an informal way, so you don’t have to correct
+coordinating conjunctions at the start of a sentence in such an answer.
+
+Relative clause: 1) Restrictive: That, which
+2) Non-Restrictive: which
+
+Both “that” and “which” can be used in a restrictive relative clause. Changing “which” to “that” in such a clause is unnecessary. Refrain from making such a correction. Review the relevant study materials.
+
+Getting help
+
+Correction criteria: Correction criteria include hints and ideas for what you need to look out for in a certain type of essay. For several questions, we have added possible topic-specific errors and how to handle them (in correction or comment, or both).
+
+Online resources: To double-check any facts or grammar usage, you should look up the necessary information online. Grammatical suggestions from tools such as Grammarly or
+ChatGPT are helpful, but you –as the human in charge –should decide whether to accept the suggestions.
+
+
+Logical issues: correction + comment
+What’s wrong?
+Not detecting logical issues in student’s essay
+Not prioritizing logical issues over grammatical errors in comments
+
+What to do?
+Pay attention to the essay’s meaning
+Follow our feedback for future reference
+
+
+Comment issue: Unbalanced comments
+What’s wrong?
+Compromising engaging remarks to make more room for helpful guidance
+
+or vice versa
+
+What to do?
+
+Dedicate enough space for all components
+Prioritize more important errors
+Regulate comment length by using simpler expressions
+
+
+Comment issue: Wrong explanations
+What’s wrong?
+Choosing difficult-to-explain grammatical errors
+Including many brief explanations
+
+What to do?
+Choose easy-to-explain grammatical errors
+Explain the chosen errors accurately with details
+
+
+Correction errors
+What’s wrong?
+Missing corrections
+Wrong corrections
+Unnecessary corrections
+
+What to do?
+Remember the requirements
+Enhance your grammatical knowledge
+Pay attention to logical aspects
+Work with a calm mind
+
+
+Recurring errors:
+Dangling modifier
+Pronoun perspective & consistency
+Article usage
+Relative pronoun
+
+
+High priority errors
+Logic | Structure | Cohesion
+
+Exercise 1
+Sample (1)
+Question If you could solve one of the problems in your local community, which would
+you choose and how would you solve it?
+
+Answer sample
+Transportation is not good in my area.For example, unmaintained roads or vacant houses
+.My area has a lot of families,so much an enviroment can have a negative effect in
+them.First of all, I think the goverment needs to provide subsidies in order to improve
+the local environment. With susidies from the goverment, it would be possible not only
+to improve roads , but also to demolish vacant houses and reuse land. I would like to
+solve the problem in my area in this way.
+
+T H I N K Can vacant houses be examples of bad transportation?
+The answer is NO.
+LOGICAL ISSUE: irrelevant details
+
+LET’S ANALYZE THE ESSAY A LITTLE MORE
+
+Transportation is not good in my area. For example, unmaintained roads or vacant houses.
+Here: Examples of the problem don’t match the problem itself.
+
+.My area has a lot of families,so much an enviroment can have a negative effect in them
+Here: The environment of the area is highlighted.
+
+First of all, I think the goverment needs to provide subsidies in order to improve the local environment.
+Here: The solution is broadly about the environment.
+
+With susidies from the goverment, it would be possible not only to improve roads ,
+but also to demolish vacant houses and reuse land.
+Here: The irrelevant example is included in the solution.
+
+I would like to solve the problem in my area in this way.
+
+
+A possible correction
+
+<del>Transportation </del> <span style="color:red;"> The living environment<span> is not good in my area. For example, <span style="color:red;"> there are </span>
+unmaintained roads <del>or </del> <span style="color:red;"> and </span>vacant houses <span style="color:red;"> which might cause accidents.</span> My area has a lot of
+families, so <del>much</del> <span style="color:red;"> such</span> an environment can have a negative effect on them. First of all, I think the government needs to provide subsidies in order to improve the local environment. With subsidies from the government, it would be possible not only to improve roads but also to demolish vacant houses and reuse land. I would <del>like to</del> solve this problem in my area in this way.
+
+
+Bonus discussion
+Compare:
+<del>Transportation</del> <span style="color:red;">The living environment</span> is not good in my area.
+
+<span style="color:red;">If I could solve a problem in my local community, I would solve the problem of the poor living environment</span> <del>Transportation is not good in my area.</del>
+
+The second version is a clear and detailed topic sentence but changes the entire sentence, so it
+can instead be a suggestion in the comment.
+
+
+Exercise 2
+Sample (2)
+
+Question What can Japanese society do to support older people who will need to be
+cared for in the future?
+
+Answer sample:
+I think young people to be interested in politics.Young people are not o interested in
+politics these days and do not election.If young people stopped voting, a member of
+parliament with biased views might be elected and lead the country or region in the
+wrong direction.Furthermore, I think young people need to communicate with the older
+people.I think it is important o to understand the behavior of elderly people, check their
+health, and confirm their survival.
+
+Unclear topic sentence (structural issue) + insufficient details (logical issue)
+
+
+Recurring mistakes & other reminders
+
+recurring error: Pronoun perspective & consistency
+
+Check if the student’s pronoun usage is correct & consistent. If the student’s usage is wrong,
+make necessary corrections and provide a relevant explanation.
+
+
+Types of structural issues
+
+Errors related to introduction:
+Missing introduction
+Unclear introduction
+
+
+Errors related to conclusion: Conclusion identical to introduction or Missing conclusion
+Missing conclusion: Only in the case of argumentative essays - > Descriptive essays can also have conclusions, but a missing conclusion is not a correctable error in this case.
+
+
+What is a logical issue?
+The essay has something that does not fit logically within the essay
+– this can occur regardless of the question’s requirements.
+
+
+Possible scenarios
+The student cannot establish his or her viewpoints logically.
+
+One or more points (reasons, supporting details, examples, etc.) do
+not match the student’s initial claim.
+
+A certain fact is illogical, inaccurate, or irrelevant.
+
+Sample (1)
+Question Give an example of environmental problems and write two causes and two 
+possible effects of each cause.
+
+Answer sample
+Global warming is a serious environmental problem. It occurs due to greenhouse gases
+emitted while burning fossil fuel. These gases can also pollute the air and harm our
+health. Moreover, the ocean temperature is rising. This has been causing stronger
+typhoons and storms around the world.
+
+Here: The rise in ocean temperature is an effect of global warming, not a cause.
+
+Sample (2)
+Question: Do you agree that high school students should have their own smartphones?
+Answer sample
+Yes, high school students should have their own smartphones. I have two reasons. First, I
+need a smartphone to contact my friends. When I can’t understand an assignment, I can
+call my friends for help. Second, my parents feel relieved. When I come home late, I tell
+my parents. That is why I think everyone needs a smartphone.
+
+Here: A student’s personal reasons can act as examples or supporting details, but they cannot
+justify a rule or state for others in general. Thus, they shouldn’t be the main reasons.
+
+Special Sample:
+Question: Do you think that all universities in Japan should be free? Why or why not?
+Answer sample
+All universities in Japan should not be free. I don’t want to study at a free university. Free things usually have bad quality. University is a place to gain specialized knowledge, but a free university cannot provide good quality lessons. Moreover, my parents told me that they are saving up for my college education. That motivated me to study hard and make them proud. They can pay my university fees, so I don’t need free classes. For these reasons, I don’t support free university education.
+
+Here: If you read such an essay, you might think to yourself, “What about students who are motivated to study, but their parents don’t have enough money for university?” Just as one person’s circumstance cannot justify a general initiative, the student cannot use his or her personal experience as the main reasons; it can be an addition.
+
+
+
+
+
+Topic-specific cohesion & logical issues to watch out for
+
+Samples of correction criteria (1)
+Introduce and explain either (a) the benefits, (b) the drawbacks, or (c) both the benefits and the drawbacks of living in a multicultural society. Compose a well-structured paragraph, supported by examples, using about 100 English words.
+Correction criteria: The topic of the essay is the benefits and drawbacks of living in a
+multicultural society, so the essay should be broadly about life in such a society. The
+student can describe the situation in Japan as examples, but they can't be the main
+points.
+
+Some students write about immigrants or, more specifically, whether or not Japan
+should accept immigrants. The topic is about living in a multicultural society – the
+keywords are “living” and “a multicultural society”. Something related to cultural and
+socioeconomic aspects of multicultural societies can be relevant reasons.
+
+Samples of correction criteria (2)
+Read the topic below and write your answer in English in about 150 words.
+Business advertising has been expanding from old forms of media (TV, radio, print*) to new forms of media
+(online/social networking services or social media). Why do you think the new forms of media are more
+popular with businesses now?
+(*print media: newspapers, magazines, etc.)
+Correction criteria: The idea of new forms of media being used more than old forms
+should be discussed from a business perspective: why companies are shifting to new
+ones. Points about why general people prefer new ones are valid, but they should be
+linked to businesses or companies' decisions (i.e., linking the growing user base of new
+media forms with advertisements reaching more people there).
+
+Some students write about good points of new media in general or why general people are shifting from old platforms to new ones. Only these points are not relevant; these points should be connected to businesses (companies, advertisers, publicists, etc.). As a corrector, you should confirm whether the student was able to establish the link instead of extrapolating by yourself.
+
+
+Samples of correction criteria (3)
+Answer in about 200 words.
+Many people hold the belief that human activities are responsible for climate change. However, there are
+people on the other side who believe that climate change is natural. Please write about which side you agree
+with and why you think that way.
+Correction criteria: This topic is highly subjective, but check if all the reasons logically
+and clearly support the student's statement. For example, if a student believes human
+activities are responsible for climate change, the main points should describe what
+activities are responsible and how.
+
+
+Some students write ‘reasons’ to support their choice, but often, all the reasons do not
+address human influence on climate change. For example, students describe human
+effect on the environment or human negligence as one of the reasons without
+connecting it to changes to the climate. (It’s okay if the student describes other facts
+as supporting details rather than as reasons.)
+
+
+Samples of correction criteria (4)
+In about 100 words, answer the following questions written below. Provide two reasons to support your opinion. Do you think Internet addiction is a major problem young people are facing today? Why or why not? Correction criteria: Check if the student writes two logical reasons to explain why Internet addiction is/isn't a significant problem for young people in general. If not, please point it out in the comment.
+
+Some students write about problems of the Internet itself (i.e., the spread of fake
+information). The question specifically asks about Internet addiction – whether it’s a
+major problem or not. Therefore, the student’s opinion should be about whether
+Internet addiction is a major problem for young people or not. The reasons should
+establish that Internet addiction is (is not) a major problem for the youth.
+
+
+Samples of correction criteria (5)
+Give an example of environmental problems and write two causes and two possible effects of each cause. Correction criteria: Check if the student writes about two distinct causes and a distinct consequence for each cause.
+
+Some students write about effects of the chosen environmental problem. However, the
+effects should be about the causes/factors – what else they do. The model answer
+clearly presents separate effects, so reading it attentively should help you understand
+the question’s requirement.
