@@ -1,12 +1,8 @@
+Pointers for Accurate Corrections
+
 You may need to consider the following aspects to ensure all necessary corrections.
-
-When reviewing a text, please apply the following formatting:
-* If a word needs significant changes to be correct, strikethrough the entire word.
-* If only a few letters need to be corrected, highlight those letters in red.
-Example:
-Original text: I want to visit Ausutralia some day. This is because I think Ausutralia is so beautiful, and my sisutre was went to Ausutralia. 
-Corrected text: I want to visit Aus<span style="color:red">t</span>ralia som<span style="color:red">ed</span>ay. This is because I think Aus<span style="color:red">t</span>ralia is very beautiful, and my sis<span style="color:red">ter</span>.
-
+I have used <b></b> tag to show some changes for your better understanding.
+Also, I have used <del> and  <span style="color:red;"> to highlight the corrections.
 Content: there may be some errors that make the answer a little different from the given topic. You need to correct such issues to make the essay coherent.
 Sample
 Question: Do you prefer quality or price when shopping?
@@ -30,7 +26,6 @@ Answer: I have been to Osaka last year.
 Correction: I <del>have been</del> <span style="color:red;">went</span> old buildings.
 
 “last year” indicates a clear time reference for the past, so the present perfect tense cannot be used in this case.
-
 Logic: there may be grammatical changes you need to bring to make the whole essay coherent.
 Sample
 Question: How can you prevent global warming in your daily life?
@@ -38,3 +33,1054 @@ Answer: I will stop using plastic bags. This also helps me save money.
 Correction: I will stop using plastic bags. This <span style="color:red;">will</span> also hel<span style="color:red;">p</span>me save money.
 
 The student’s second sentence is not grammatically incorrect. However, as the student wrote “I will stop,” we can assume that the student hasn’t yet stopped using plastic bags but will do so in the future. Saving money is an effect of not using plastic bags, so this can only be possible after the student stops using plastic bags (a future action).
+
+Correcting words written in Japanese
+Writing Japanese words is not wrong, especially when it is a piece of information about Japan. However, the words should be in English letters, not in Japanese letters. Also, the essays the students write are in English, and the meaning of all the words should be clearly understandable. 
+For common Japanese words (words that are well-known), you don’t have to make any corrections; you can suggest clarifying the meaning for non-Japanese readers in the comment.
+For uncommon words, you should make necessary corrections to clarify the meaning and guide the student accordingly. 
+Find samples below – 
+For common words
+Type 1 (with context)
+
+Sample answer: I recommend tourists visit <b>Kinkakuji</b>. I think they will be impressed to see <b>this temple<b> covered in gold. It is one of the most famous sightseeing spots in Kyoto. It has a large pond, and the scenery is very beautiful. In fall, we can enjoy the autumn leaves.
+Sample correction: No corrections necessary for the Japanese word
+Suggestion: No suggestion is necessary because it contains what Kinkakuji is.
+
+Type 2 (without context)
+
+Sample answer: I recommend tourists visit <b>Kiyomizudera</b>. I think they will be impressed by the beautiful view from the wooden stage. There are many cherry and maple trees near it, so the scenery in spring and fall is very beautiful.
+Sample correction: A foreign reader may not know what Kiyomizudera or Kiyoimizudera Temple is.
+Suggestion: It’s better to write Kiyomizudera Temple or Kiyomizudera Temple.
+
+For Uncommon Words
+
+Type 1 (Japanese words):
+Sample answer: We should avoid poisute.
+Sample correction: We should avoid poisute (littering).
+Sample suggestion: The word “poisute” is Japanese, and not many foreigners know about it. I suggest mentioning the English meaning. That way, your writing will be easy to understand for everyone.
+
+Type 2 (Japanese text):
+Sample answer: We should avoid ポイ捨て。
+Sample correction: We should avoid littering <del>ポイ捨て.</del>
+Sample suggestion:I looked up the Japanese word online and found that it means ‘littering’. As you are writing an English essay, please try to use the English word.
+Pointers for temple names:
+Temple names are usually easy to find online. Thus, it’s not wrong for a student to write only Ginkakuji or only Fushimi Inari Taisha. However, from the perspective that the English essays should be easy to understand for all non-Japanese readers, it’s better to have some clarification for the names. As such, a student writing “Fushimi Inari Taisha Shrine”/“Fushimi Inari Shrine” is okay — an experienced corrector may know that “ji” means temple and think that writing both “Taisha” and “Shrine” together is redundant, but another foreign reader may not. 
+Thus, in the category of common words type 2, any of the following forms is acceptable:
+Kinkakuji/ Kinkaku-ji ->  Kinkaku Temple -> Kinkakuji Temple 
+Kiyomizudera/ Kiyomizu-dera -> Kiyomizu Temple -> Kiyomizudera Temple 
+Fushimi Inari Taisha -> Fushimi Inari Shrine -> Fushimi Inari Taisha Shrine 
+Itsukushima Jinja -> Itsukushima Shrine -> Itsukushima Jinja Shrine
+
+Note: These are only some common names that appear in the students’ answers. There are many more temples and shrines. When you do need to make any corrections, please look up the names themselves to understand whether you should add “temple” or “shrine”.
+
+Correcting the essay structure
+Regarding Essay Format
+An essay should have three distinct parts: introduction-body-conclusion.
+All three essay parts are necessary for an argumentative/opinionative essay (where the students have to pick a side on a topic and defend/justify their view). The conclusion is not mandatory for descriptive essays (where the students don’t have to justify anything). 
+Sometimes, the students don’t follow the proper structure for an essay. Usually, either the introduction or the conclusion is missing. If an essay is not properly structured, you need to add the necessary parts or at least suggest them in the comment.
+Here is a sample to illustrate the issue:
+Original answer
+I believe, therefore, that people work for their hobby. Other reasons why people want to work for their family. This is because the family is very important. For example, if a person want to support their family such as father, mother, brother, sister, grandmother, grandfather, pet. They must work for their family.
+
+The problem in this essay is that the 1st sentence cannot be an introduction (there is nothing that can result in the inference). Cutting “therefore” can be a simple way to fix the introduction in this case.
+The essay also lacks a proper conclusion. As this is a descriptive essay, the lack of a conclusion is not necessarily a structural error, but the student clearly needs some guidance regarding what can be an introduction and what can be a conclusion. A concluding remark that could be added (or suggested in the comment) is as follows:
+Therefore, they must work for their family and hobbies.
+Or
+That is why I believe that hobbies and family motivate people to work.
+NB. The student didn’t elaborate on hobbies as a motivation, but that’s a cohesion issue and must be addressed in the comment.
+Here is a sample to illustrate the necessity of a clear introduction:
+Original answer
+I watch an anime called white sound aquatop. It made me interest work at aquarium. In order to become watch YouTube videos. Also, I study about fish and the ocean.
+The problem with this essay is that there is no topic sentence to clearly introduce the topic. Reading the essay, you might think that it is about an inspiring anime (or any other artistic piece), but the student actually wrote this as an answer to this question (prompt): What job do you want to do in the future? 
+From this, you should understand how an essay can completely misguide the reader if the topic is not clearly introduced. The topic should always be clearly introduced in the introduction part, generally in the first sentence, which is called the topic sentence. 
+A relevant topic sentence that can be added to this essay is as follows:
+I want to work at an aquarium.
+Or
+I want to become an aquarist.
+Regarding Introduction and Conclusion
+Another case is that the introduction and the conclusion may be identical in the same essay. In such a case, you need to suggest an alternative in the comment.
+Here is a sample to illustrate that
+
+
+Original answer
+I prefer reading the news online reading it newspaper. I have two reasons. First, I can read it anytime and I can read quickly it. Second I can get a lot of information there is a put of on the Internet. Therefore I think I prefer reading the news online reading it newspaper.
+
+The 1st and the last sentences are almost identical and contain the same grammatical errors. A simple correction for the original expression would be, 
+ I prefer reading the news online <span style="color:red;">to</span> reading it <span style="color:red;">in a</span> newspaper.
+However, bringing some variation would make the essay a lot better. Since both sentences require some corrections, this is a chance to show different ways of writing it through the correction itself.
+Some possible alternative corrections for the conclusion are –  
+Therefore, <del> I think </del> I prefer reading the news online  <del>reading it newspaper</del>.
+Or
+Therefore, I think <del>I prefer</del> reading the news online <span style="color:red;">is better than</span> reading it <span style="color:red;">in the </span>newspaper.
+
+NB. The first version requires fewer changes than the second one, so using the former for the correction and suggesting the latter in the comment would be a good combination.
+
+Regarding the Topic Sentence
+A good topic sentence is important for a good introduction. Even when the student does write a topic sentence, there may be two types of confusion.
+Unclear topic sentences
+Sometimes, the students write the topic sentence in reference to the question and don’t properly introduce the topic. 
+Question sample: Do you think that all universities in Japan should be free?
+Answer sample: Yes, I think so.
+
+The answer sample is grammatically correct, but it doesn’t clearly introduce the topic. For SLC essays, the students are answering a question, so the readers can always refer to the question and understand the context from both the question and the rest of the essay. Therefore, correcting such topic sentences is not necessary. However, generally, a clear topic sentence is one that introduces the topic of the essay. You should suggest the student write a detailed opening to introduce the topic. This can be considered a writing tip.
+
+Answer sample: Yes, I think so.
+Correction sample: Yes, I think so.
+Comment sample: You can make the 1st sentence more detailed. A topic sentence should clearly introduce the essay’s topic so that the reader can understand the topic even without seeing the question. For example, you can write, “Yes, I think that all universities in Japan should be free.”
+
+(2) Wording that doesn’t match the question’s suggestion
+Sometimes, students write a clear topic sentence but don’t follow the exact one mentioned in the question or the correction criteria. If it is grammatically correct and also matches the context, it’s a functional introduction; you don’t have to correct it or point it out in the comment.
+Question sample: What is the most memorable present you have ever received?
+Model answer: The most memorable present I have ever received is a watch.
+Student’s answer: The skateboard my parents gave me is more memorable than all other presents I have received.
+
+NB. If the students try to explore different phrasing and structures, it indicates that they are actively trying to improve their English skills, and we should help them do that!
+
+Summary for structural correction:
+Structural Issue: Lack of a proper intro+body+conclusion
+Action to take: Add the necessary part in the correction, or Suggest necessary additions in the comment
+
+Structural Issue: Introduction (First sentence) = Conclusion (Last sentence)
+Action to take: Doesn’t need correction
+
+Structural Issue: Introduction (First sentence) ≠ Conclusion (Last sentence)
+Action to take: Suggest alternative expressions in the comment
+
+Structural Issue: Needs correction
+Action to take: Try to use different expressions
+
+Necessary and Unnecessary Corrections
+Based on the general guidelines for corrections, if you notice a scope for improvement, consider whether the correction would make any significant difference according to any of the above mentioned aspects. Below are some special cases.
+Changing “which” to “that” in a restrictive clause: unnecessary [refer to relevant study materials for details]
+Sample:
+Student’s writing: My most memorable present is a photo frame <b>which</b> my friends gave me.
+Correction: My most memorable present is a photo frame <b>that</b> my friends gave me.
+Verdict: Unnecessary
+
+(2) Adding or removing the relative pronoun in a restrictive clause: a restrictive clause with a subject of its own may be written with or without the relative pronoun. That is called a reduced restrictive clause. Whichever the student writes is okay, and changing one for the other would be unnecessary.
+
+Sample (1):
+Student’s writing: I am happy to receive an award testifies my contribution.
+Correction: I am happy to receive an award that testifies my contribution.
+Verdict: Necessary
+
+The relative clause doesn’t have a subject and is incomplete. The relative pronoun cannot be skipped in this case as it acts as the subject for the verb of the relative clause.
+ Sample (2):
+Student’s writing: I liked the book that you recommended.
+Correction: I liked the book you recommended.
+Verdict: Unnecessary
+
+The correction is not grammatically wrong, but what the student wrote was also correct.
+
+Sample (3):
+ Student’s writing: I liked the book you recommended.
+Correction:I liked the book <b> that </b>you recommended.
+Verdict: Unnecessary
+
+The correction is not grammatically wrong, but what the student wrote was also correct
+
+Joining or adding sentences for three-sentence answers:
+
+If a student writes more or fewer than three sentences for a question that asks for three sentences only, you should try to address it through both the corrections and the comment. Follow the instructions and examples below:
+
+Case: More than 3 sentences
+Correction (if possible): Merge existing sentences into 3 complete sentences
+Comment: Point out the question’s instruction
+Sample: The question asked you to write 3 sentences, but you wrote x sentences. I joined some of your sentences to show you how you could follow the question’s instructions and also include all the details.
+
+Case: Fewer than 3 sentences
+Correction (if possible): Add/extend sentence(s)
+Comment: Point out the question’s instruction
+Sample: The question asked you to write 3 sentences, but you wrote only x sentences, so I added n more. Please remember to read the question carefully next time.
+
+
+Adding any transition sentence:
+If you need to add any extra sentence to an essay to make the whole essay logical, you may do it.
+Special case
+Adding “I have n reasons for this”: when students list reasons (“First…Second…” etc.), you may think that having a transition sentence after the introduction can make the essay have a better flow. However, when the question clearly specifies the number of reasons the student should include in the answer, that addition is not necessary.
+Question sample:Every university student in Japan should study abroad for at least one semester. Write your opinion about this with <b>two reasons<b> in about 50-70 words.
+
+Note: if the student adds such a transition sentence, you don’t have to cut it. 
+
+
+Pronoun Perspectives
+
+Use of pronouns in SLC essays
+
+1st person: I/me/my/we/us/our
+
+2nd person: You/your
+
+3rd person: He/she/they/them/their
+
+1st person: Something relevant to the WRITER. Appropriate for topics related to students.
+
+2nd person: Something relevant to the READER. Appropriate only if the topic is relevant for anyone at all.
+
+3rd person: Something relevant to a noun mentioned in the text (essay/story). Generally preferred for formal essay writing.
+
+
+Appropriate Pronoun perspectives: writer relevance
+
+
+Essays about specific groups of people: Third or first person
+Scenario samples: Parents limiting children’s internet usage, High school students doing volunteer work
+
+Essays about the writer’s choice: First person
+Scenario samples: Something concerning the writer’s choice, i.e., dogs or cats, textbook or tablet, futon or bed
+
+Essays about Japan: Third person
+Scenario samples: Solving problems of Japan’s residents, Legal considerations for Japan’s future
+
+Appropriate Pronoun perspectives: reader relevance
+
+Essays about specific groups of people:
+Suitable Pronouns: Second person
+Scenario samples: Letters and emails (directly addressing the reader)
+
+Essays about specific groups of people:
+Suitable Pronouns: Third person
+Scenario samples: Recommendations for foreign visitors
+
+Essays about unspecified groups of people:
+Suitable Pronouns: Third or second person
+Scenario samples: Opinion on volunteer work, Recommendation for visiting hometown, Learning a language
+
+Students can always use first-person pronouns to express their personal views and experiences.
+
+Perspective consistency
+
+Different perspectives can be used in the same essay as long as the
+references are understood properly. Different pronoun perspectives cannot
+be used for the same reference.
+
+Incorrect:  I think it is important to learn different foreign languages. If
+<b>you</b> only learn English, <b>you</b> may be troubled when <b>you</b>
+travel abroad. If <b>we</b>know many languages, <b>we</b>can have
+more job opportunities too.
+
+Correct: High school students should go to a foreign country on a
+school trip. Firstly, <b>they</b>can experience a new environment
+and broaden <b>their</b>horizons. <b>I</b> learned to think about various
+perspectives during <b>my</b>homestay in Canada.
+
+Dangling Modifiers:
+Recognize a dangling modifier when you find one. Modifiers are words, phrases, or clauses that add description. In clear, logical
+sentences, you will often find modifiers right next to—either in front of or behind—
+the target words they logically describe.
+
+Read this example:
+Horrified, Mom snatched the deviled eggs from Jack, whose fingers
+were covered in cat hair.
+
+Notice that horrified precedes Mom, its target, just as deviled sits right before eggs.
+Whose fingers were covered in cat hair immediately follows Jack, its target.
+
+Sometimes, however, an inexperienced writer will include a modifier but forget the
+target. The modifier thus dangles because it has nothing in the sentence to describe.
+Dangling modifiers are errors. This poor method of sentence construction confuses
+readers.
+
+Review the examples below:
+Hungry, the leftover pizza was devoured.
+
+Hungry is a single-word adjective. Notice that there is no one in the sentence
+for this modifier to describe.
+
+Rummaging in her giant handbag, the sunglasses escaped detection.
+
+Rummaging in her giant handbag is a participle phrase. In this sentence, no
+word exists for this phrase to modify. Neither sunglasses nor detection has
+fingers to make rummaging possible!
+
+With a sigh of disappointment, the expensive dress was returned to
+the rack.
+
+With a sigh of disappointment is a string of prepositional phrases. If you look
+carefully, you do not find anyone in the sentence capable of feeling disappointed.
+Neither dress nor rack has emotions!
+
+Know how to fix a dangling modifier.
+
+Fixing a dangling modifier will require more than rearranging the words in the
+sentence. 
+
+You will often need to add something new so that the modifier finally has a
+target word to describe:
+Hungry, we devoured the leftover pizza.
+Rummaging in her giant handbag, Frieda failed to find her sunglasses.
+With a sigh of disappointment, Charlene returned the expensive dress
+to the rack.
+..................................................................................
+
+Relative Clause:
+Relative Clauses in English Grammar
+Relative Clauses:
+
+Introduced by relative pronouns (e.g., which, that, who).
+Embedded in a larger sentence, providing additional information about a noun.
+Cannot stand alone as full sentences.
+Examples:
+
+“Jake won the prize, which the millionaire donated.”
+The clause “which the millionaire donated” is a relative clause providing more information about the prize.
+Types of Relative Clauses:
+
+Non-Restrictive Relative Clauses (NRC):
+Provide extra information that is not essential to the meaning of the sentence.
+Separated by commas.
+Example: “Jake won the prize, which the millionaire donated.”
+The information about the millionaire donating the prize is additional and not crucial to identifying the prize.
+Restrictive Relative Clauses (RRC):
+Provide essential information to identify the noun being discussed.
+Not separated by commas.
+Example: “Jake won the prize that the millionaire donated.”
+The clause “that the millionaire donated” is essential to specify which prize Jake won.
+Usage of Relative Pronouns:
+
+Which vs. That:
+“Which” is used in NRCs.
+“That” is used in RRCs.
+Who:
+Used for people.
+Can be used in both NRCs and RRCs.
+Example: “Women who are smart study grammar.” (RRC)
+Example: “Women, who are smart, study grammar.” (NRC)
+Punctuation:
+
+Commas are crucial in distinguishing between NRCs and RRCs.
+NRCs are surrounded by commas if in the middle of a sentence or followed by a comma if at the end.
+Reduced Relative Clauses:
+
+Possible in restrictive relative clauses.
+The relative pronoun and verb “to be” can be omitted.
+Example: “The picture that Billie painted was in the Cubist style.”
+Reduced: “The picture Billie painted was in the Cubist style.”
+Types of Clauses:
+
+Independent Clause: Can stand alone as a sentence.
+Dependent Clause: Cannot stand alone and starts with a subordinating conjunction.
+Non-Restrictive Relative Clause: Provides non-essential information, separated by commas.
+Restrictive Relative Clause: Provides essential information, not separated by commas.
+Reduced Relative Clause: A shortened form of a relative clause.
+Complement Clause: Completes the meaning of a verb.
+Examples and Conversions:
+
+Full Relative Clause: “The picture that Billie painted was in the Cubist style.”
+Reduced Relative Clause: “The picture Billie painted was in the Cubist style.”
+Non-Restrictive Relative Clause: “James Levine, who is a famous conductor, is taking a sabbatical.”
+Reduced: “James Levine, a famous conductor, is taking a sabbatical.”
+Additional Details:
+
+Subject Relative Clauses: Modify the subject of the main sentence.
+Example: “The prize, which Jake won, was donated by the millionaire.”
+Object Relative Clauses: Modify the object of the main sentence.
+Example: “Jake won the prize, which was donated by the millionaire.”
+Blurring of Relative Pronouns:
+
+Which and That are sometimes used interchangeably.
+Who and That can also be used interchangeably when referring to people.
+Example: “The student that passed the exam left the room happy.”
+Example: “The student who passed the exam left the room happy.”
+Appositives:
+
+A reduced relative clause can result in an appositive, providing additional information about a noun.
+Example: “James Levine, a famous conductor, is taking a sabbatical.”
+Summary of Clause Types:
+
+Independent Clause: Can stand alone as a sentence.
+Dependent Clause: Cannot stand alone and starts with a subordinating conjunction.
+Non-Restrictive Relative Clause: Provides non-essential information, separated by commas.
+Restrictive Relative Clause: Provides essential information, not separated by commas.
+Reduced Relative Clause: A shortened form of a relative clause.
+Complement Clause: Completes the meaning of a verb.
+....................................................................
+Relative clauses:
+
+restrictive & nonrestrictive:
+A relative clause is a type of subordinate clause that is used in a sentence to add information about something mentioned in the main clause. The relative clause is non-restrictive when the meaning of the main clause doesn’t depend on the relative clause (there is no change even without the relative clause).The relative clause is restrictive when the meaning of the main clause depends on the relative clause (the meaning changes in some way or becomes incomplete without the relative clause).
+
+Examples:
+A relative clause can modify the subject of the main clause:
+The students who have submitted their exam scripts can go home. (RC) [Implication: some students haven’t yet submitted
+their scripts]
+The students, who have submitted their exam scripts, can go home. (NRC) [Implication: Submitting scripts has no connection with going home].
+
+A relative clause can modify the object of the main clause:
+I am happy to receive an award that testifies my contribution. RC
+I am happy to receive an award which testifies my contribution. RC
+Implication: the award testifying my contribution made me
+happy.
+I am happy to receive an award, which is a certificate of excellence. NRC
+Implication: I am mainly happy about the award; I would probably be happy even if it weren’t a certificate of excellence.
+
+Remember, Both “that” and “which” can be used in a restrictive clause while only “which” can be used in a non-restrictive clause.
+
+A relative clause can modify the main clause itself:
+I am happy to receive an award, which is only natural. NRC
+Implication: feeling happy about receiving an award (regardless of what kind of award it is) is natural.
+
+When the relative clause includes a subject, the relative pronoun can be omitted. Such a
+restrictive clause is called a reduced restrictive clause.
+Examples: I am happy to receive an award that testifies my contribution.
+I am happy to receive the award that the company gave to testify my contribution.
+I am happy to receive the award the company gave to testify my contribution.
+This concept is important for understanding whether a relevant correction is necessary or not. If the student writes a restrictive clause with the relative pronoun, you shouldn’t cut the pronoun for conciseness; if the student writes a reduced restrictive clause, you don’t have to add the pronoun.
+........................................................................................
+
+Hyphenation:
+The rules and history of hyphenation in English. It explains when to use hyphens, particularly in compound words, adjectives before nouns, and adverbs ending in -ly followed by an adjective. Some key points include:
+
+Use a hyphen in compound adjectives before a noun (e.g., “world-record price”).
+No hyphen is needed when the combination is not before a noun (e.g., “a world record was set”).
+Hyphens are used with -ing or -ed words in both positions (e.g., “spine-chilling movie”).
+Adverbs ending in -ly do not need hyphens (e.g., “widely known fact”).
+Adverbs not ending in -ly may need hyphens for clarity (e.g., “well-known fact”).
+Two adjectives with separate meanings do not need a hyphen (e.g., “long introductory chapter”).
+..........................................................................................
+Past Perfect Tense
+The past perfect tense is used to show that an action was completed before another action in the past. It helps to clearly indicate the sequence of events. This tense is formed using the auxiliary verb “had” followed by the past participle of the main verb.
+
+Structure:
+Affirmative Sentence: Subject + had + past participle
+Example: “She had finished her homework before she went out to play.”
+Negative Sentence: Subject + had + not + past participle
+Example: “They had not eaten before they left.”
+Interrogative Sentence: Had + subject + past participle?
+Example: “Had you seen the movie before?”
+Usage:
+To indicate the earlier of two past actions:
+Example: “Koichi had driven around for 20 minutes before he found a parking spot.”
+Here, “had driven” is the action that happened first, and “found” is the action that happened later.
+To show cause and effect in the past:
+Example: “She was tired because she had worked all day.”
+The action “had worked” explains why she was tired.
+In reported speech:
+Example: “He said that he had finished the project.”
+The past perfect “had finished” is used to report what was said.
+With time expressions like ‘already’, ‘just’, ‘never’, etc.:
+Example: “They had already left when we arrived.”
+“Had already left” indicates that the action was completed before the arrival.
+Example Sentences:
+“By the time the movie started, we had already found our seats.”
+“She had never seen such a beautiful sunset before she visited Hawaii.”
+“After he had eaten breakfast, he went for a run.”
+The past perfect tense is particularly useful for making the timeline of events clear and avoiding confusion about which action happened first. It is an essential part of mastering English grammar, especially for conveying complex sequences of events in the past.
+........................................................................................
+Past Perfect Tense
+
+The past perfect tense is used to indicate that one action was completed before another action in the past. It helps to clearly indicate the sequence of events. This tense is formed using the auxiliary verb “had” followed by the past participle of the main verb.
+
+Structure:
+Affirmative Sentence: Subject + had + past participle
+Example: “She had finished her homework before she went out to play.”
+Negative Sentence: Subject + had + not + past participle
+Example: “They had not eaten before they left.”
+Interrogative Sentence: Had + subject + past participle?
+Example: “Had you seen the movie before?”
+Usage:
+To indicate the earlier of two past actions:
+Example: “Koichi had driven around for 20 minutes before he found a parking spot.”
+Here, “had driven” is the action that happened first, and “found” is the action that happened later.
+To show cause and effect in the past:
+Example: “She was tired because she had worked all day.”
+The action “had worked” explains why she was tired.
+In reported speech:
+Example: “He said that he had finished the project.”
+The past perfect “had finished” is used to report what was said.
+With time expressions like ‘already’, ‘just’, ‘never’, etc.:
+Example: “They had already left when we arrived.”
+“Had already left” indicates that the action was completed before the arrival.
+Example Sentences:
+“By the time the movie started, we had already found our seats.”
+“She had never seen such a beautiful sunset before she visited Hawaii.”
+“After he had eaten breakfast, he went for a run.”
+Diagram Explanation:
+The diagram titled “Language Diagram 2 — Using the past perfect tense” illustrates the relationship between past perfect, simple past, and present using a timeline with three points:
+
+Before this point of time (past perfect)
+The point of focus (simple past)
+(Now) present
+The diagram helps visualize how the past perfect tense is used to describe actions that happened before the point of focus in the past. For example, in the sentence “Group B was present but was separated from them by a blanket that had been stretched across the room,” the action “had been stretched” happened before the action “was separated.”
+
+The past perfect tense is particularly useful for making the timeline of events clear and avoiding confusion about which action happened first. It is an essential part of mastering English grammar, especially for conveying complex sequences of events in the past.
+......................................................................................
+The How-To of Conjunctions:
+In formal writing (all types of essays), conjunctions should always be used to join two entities within a sentence: a word/phrase with other words/phrases; a clause with other clauses.
+
+Coordinating conjunctions (and, but, so, or, etc.) should be used to join clauses or phrases (according to their individual function) and not at the beginning of a simple sentence in formal writing. 
+Subordinating conjunctions (because, since, whereas, etc.) should be used to join clauses in a complex sentence. They can be either at the beginning or in the middle of the sentence depending on the logical sequence.
+In informal writing, such as stories, emails, and answers about telling something to classmates or friends, starting a sentence with a coordinating conjunction is acceptable.
+Some Commonly Used Conjunctions in Student Writing:
+Comments should be engaging and helpful.
+The correctors are working hard, and they are careful about not making mistakes. 
+Logical corrections are important, but unnecessary changes should be avoided.
+Vocabulary errors lead to confusion in meaning, so they must be corrected. 
+Explanations should be clear so every student can understand them. (so that)
+All the correctors need to work regularly because there are a lot of pending essays.
+Because the students are waiting eagerly, correctors should ensure timely work.
+Because of the long holiday, many students got SLC homework.
+“Because of” is not the same as “because”. “because” can be replaced with “since”, but the same cannot be done to “because of”. Moreover, “because of” can begin a simple sentence whereas “because” cannot.
+Correcting Conjunction Errors
+In formal writing, the sentences with wrongly used conjunctions can be merged with the adjacent sentences as necessary, or the conjunctions can be replaced with suitable linking phrases.
+Here are some examples:
+Original: Practicing every day was hard. But I tried my best and had fun with my friends.
+Correction 1: Practicing every day was hard, but I tried my best and had fun with my friends.
+Correction 2: Practicing every day was hard. However, I tried my best and had fun with my friends.
+Original: Japanese food is not oily. So it is good for health.
+Correction 1: Japanese food is not oily, so it is good for health.
+Correction 2: Japanese food is not oily. As a result, it is good for health.
+Original: I am for school uniforms. Because I have two reasons.
+Correction: I am for school uniforms because I have two reasons.
+Original: Summer is the best season to visit my hometown. Because the summer festival is very enjoyable.
+Correction 1: Summer is the best season to visit my hometown because the summer festival is very enjoyable.
+Correction 2: Summer is the best season to visit my hometown. This is because the summer festival is very enjoyable.
+Original: Quality products are comfortable to use, so they are worth the price. Although not all high-quality goods are too expensive.
+Correction 1: Quality products are comfortable to use, so they are worth the price, although not all high-quality goods are too expensive.
+Correction 2: Quality products are comfortable to use, so they are worth the price. Nonetheless, not all high-quality goods are too expensive.
+These corrections help improve the coherence and clarity of the sentences by merging them appropriately and using suitable conjunctions.
+.....................................................................
+Conjunctions in Formal Writing
+Examples of Suitable Alternatives for Commonly Mistaken Coordinating Conjunctions:
+And
+Alternatives: Also, Moreover, Additionally, In addition
+But
+Alternatives: However, In contrast, On the other hand
+So
+Alternatives: Therefore, As a result, Thus
+Or
+Alternatives: Alternatively
+Note:
+When correcting conjunction errors, the meaning depends greatly on the sequence of the clauses, so correctors should pay attention to the logical flow of each case. Also, some words can be used as different parts of speech, so look up a word if you need to confirm its usage.
+
+Commenting on Conjunction Errors:
+Coordinating conjunctions used to begin sentences in formal writing:
+
+Mistake Sample:
+Original: Tourists can enjoy visiting popular sites. And they can try various traditional Japanese food, such as udon.
+Correction Sample 1: Tourists can enjoy visiting popular sites. Also, they can try various traditional Japanese food, such as udon. (Changing the conjunction to a conjunctive adverb)
+Correction Sample 2: Tourists can enjoy visiting popular sites, and they can try various traditional Japanese food, such as udon. (Joining the sentences using the coordinating conjunction)
+Comment Sample (Brief):
+Avoid starting a sentence with coordinating conjunctions such as ‘and’ in formal writing. You can start the next sentence with “Also” or “Moreover”.
+
+Comment Sample (Detailed):
+Avoid starting a sentence with coordinating conjunctions such as “and” in formal writing. You can start the next sentence with “Also” or “Moreover”. You can also join the sentences using “and”.
+
+Logical Issue Due to a Wrong Conjunction Choice:
+A conjunction may not logically fit the context. In this case, you have to correct not only the sentence structures but also the meaning.
+
+Mistake Sample:
+Original: I want to become better at basketball, but I practice hard.
+Correction Sample: I want to become better at basketball, so I practice hard.
+Comment Sample:
+In the sentence, the conjunction “but” doesn’t fit because we use “but” to introduce a point that contrasts the previous one. You are practicing hard to become better at basketball. Thus, “so” would be the best conjunction there.
+
+Subordinating Conjunctions Used with a Single Clause:
+Mistake Sample:
+Original: Drones can deliver goods quickly. Because they can fly in the sky.
+Correction Sample 1: Drones can deliver goods quickly because they can fly in the sky. (Joining the sentences)
+Correction Sample 2: Drones can deliver goods quickly. This is because they can fly in the sky. (Keeping separate sentences)
+Comment Sample:
+The second sentence is the reason/cause for the first sentence, so you need to start the second sentence with “It is because” or “This is because”. Alternatively, you can join both sentences with “because”.
+
+Conjunction Errors in Informal Answers:
+Students often write short answers to their friends or classmates. In such informal contexts, students can use coordinating conjunctions to begin sentences without requiring correction. However, incomplete sentences and sentence fragments should still be corrected.
+
+The Dilemma of “so”:
+“So” as a conjunction cannot be used to begin a sentence in formal writing. However, it may be a relevant discourse marker. Sometimes, students write interrogative sentences in argumentative essays to engage the reader, and a discourse marker may be used for that purpose.
+
+Example:
+Original: Many people think that climate change cannot be tackled unless every single person cooperates. So, should we wait until everyone cooperates? I believe we should actively try to raise awareness.
+.......................................................................................
+
+What Is a Sentence Fragment? Definition and Examples:
+It is easy to miss sentence fragments because all a series of words needs is a capital letter at the beginning and ending punctuation, and voilà! It looks like a sentence. Yet, for a sentence to be truly complete, it must contain an independent clause, which tells the whole story even when isolated from its context. Here, we’ll look at sentence fragments and how to fix them, with plenty of examples.
+What is a sentence fragment? 
+A sentence fragment is an incomplete sentence; it’s a partial sentence that’s missing another necessary part to make it complete.
+
+Put simply, a sentence fragment is a clause that falls short of a complete because it is missing one of three critical components: a subject, a verb, and a complete thought.
+
+Fixing sentence fragments
+Fixing a sentence fragment involves one of two things: giving it the components it lacks or fastening it onto an independent clause. Consider the following:
+
+
+There are many ways to frighten little brothers; for example, hiding under their beds and waiting for dark.
+Notice that in order to properly connect these two clauses with a semicolon, you need to do some rewriting in order to ensure both can function as independent clauses. In other words, you need to fortify the fragment with a subject and a verb to turn it into a sentence. Notice in the example above that by doing so, you’ll need to edit other parts of your fragment to turn it into a grammatically correct independent clause. 
+
+If a semicolon seems too formal for your purposes, you could write your text as two sentences—but don’t forget to make sure the second one has a subject and a verb:
+
+
+There are many ways to frighten little brothers. For example, you could hide under their beds and wait for dark.
+Both remedies result in structurally sound sentences.
+
+Sentence fragment examples
+Here is a glaring example of a sentence fragment:
+
+Because of the rain.
+
+On its own, because of the rain doesn’t form a complete thought. It leaves us wondering what happened because of the rain. To complete it, we need further explanation:
+
+Because of the rain, the party was canceled.
+
+Now the fragment has become a dependent clause attached to a sentence that has a subject (the party) and a verb (was canceled). Our thought is complete.
+
+In that example, making the sentence longer was the solution. But that doesn’t mean that short sentences can’t be complete. This teensy sentence is complete:
+
+I ran.
+
+I ran may be a short thought, but it has a subject (I) and a verb (ran). Nothing in the sentence demands further explanation. Another famous example of a short-but-complete sentence is “Jesus wept.”
+
+Avoiding sentence fragments not only makes your writing easier to read, but it can also make you sound more polished in polite correspondence. We’ve all had emails ending with:
+
+Looking forward to seeing you.
+
+That sentence lacks a subject. Adding the subject will build a stronger, more confident-sounding sentence:
+
+I’m looking forward to seeing you.
+
+It’s a subtle psychological difference, but if you are corresponding in a formal setting, it is worth taking care to write complete sentences. Fragments can sound as if they are carelessly blurted out.
+Stylistic sentence fragments
+Without question, you should avoid sentence fragments in formal situations and academic writing. That said, a fragment within a clear context can sometimes serve a valid dramatic purpose. Journalists, bloggers, and fiction writers often use them. For example:
+
+No one thought that Ethan could make the jump; it was just too high. All the same, he was determined to astound us. No matter what.
+
+And he did.
+
+Your high school English teacher would find three things wrong with this description. No matter what is a sentence fragment. And he did is a sentence beginning with a conjunction,  and it’s a one-sentence paragraph.
+
+Gasp!
+
+As always, judge for yourself who your audience is and how much wiggle room you have for breaking the rules. If you are telling a story, a few fragments might suit your purpose and style well, but if you are writing an essay or crafting a business document, it’s best to steer clear of them.
+.........................................................................
+What Is a Subordinating Conjunction?:
+A subordinating conjunction is a word or phrase that links a dependent clause to an independent clause. This word or phrase indicates that a clause has informative value to add to the sentence’s main idea, signaling a cause-and-effect relationship or a shift in time and place between the two clauses.
+Sound complicated? Let’s break it down.
+
+A dependent clause, also known as a subordinate clause, is a clause with two specific qualities. Firstly, it does not express a complete unit of thought on its own; it cannot stand as its own sentence. Secondly, it depends upon an independent clause—one that can stand on its own as a complete sentence—to form a complete idea. If independent and dependent clauses could be likened to Batman and Robin, the dependent, or subordinate, clause would be Robin, Batman’s assistant. The independent, main clause would be Batman, his superhero boss.
+
+Subordinating conjunctions showing cause and effect
+The subordinating conjunction that is simplest to explain is because. Because is a conjunction with just one purpose: to show a cause-and-effect relationship between a subordinate clause and a main clause. On its own, a clause beginning with because is incomplete.
+
+
+Because he wouldn’t wear a seat belt.
+We have the sense that there is something missing here. Let’s add an independent clause so this statement has something to lean on.
+
+
+Robin wasn’t allowed in the Batmobile any longer.
+Now we will combine the two in a complex sentence.
+
+
+Robin wasn’t allowed in the Batmobile any longer because he wouldn’t wear a seat belt.
+In this sentence, “Robin wasn’t allowed in the Batmobile any longer” is an independent clause. It could stand on its own as a complete sentence. A clause that shows a causal relationship, such as “because he wouldn’t wear a seat belt” (answering the question “Why?” or “For what purpose?”), is often referred to as a clause of purpose.
+
+Other subordinating conjunctions that can show cause-and-effect relationships and function in the same way are as, since, though, due to, provided that, because of, and unless.
+
+Some words are subordinating conjunctions only when they’re used in certain ways. When it’s used to mean “in order that,” so and so that are subordinating conjunctions (but when so is used to mean “therefore,” it’s a coordinating conjunction). Although for is often used as a preposition (as in “she collected money for charity”), when it’s used to mean “because,” it’s a subordinating conjunction (“He did not eat, for he was fasting.”).
+
+
+Batman required strict compliance with seat belt rules, hence Robin was not allowed to ride in the Batmobile.
+
+Since Robin refused to wear his seat belt, Batman has banned him from the Batmobile.
+Subordinating conjunctions signaling relationships of time or place
+Another function of subordinating conjunctions is to show a relationship between two clauses involving a transition of time or place. Some examples of such subordinating conjunctions are once, while, when, whenever, where, wherever, before, and after.
+
+
+Once Batman learned that Robin had not been wearing his seat belt, he took away his keys to the Batmobile.
+
+Robin looked regretfully at the Batmobile whenever he passed it in the Batcave.
+
+After Batman was done working for the night, Robin took a secret ride in the Batmobile.
+
+Before Robin gets his job in the Batcave back, he must promise to stop playing with the Batmobile.
+Comma placement and subordinating conjunctions
+Subordinating conjunctions that fall in the middle of a sentence are generally not preceded by a comma. This is the opposite of what is done with coordinating conjunctions, or words that join two independent clauses (for, and, nor, but, or, yet, and sometimes so).
+
+When a subordinate clause begins a sentence, however, the whole clause (but not the subordinating conjunction itself) is followed by a comma.
+
+
+Whenever, Batman was away, Robin drove the Batmobile.
+
+Whenever Batman was away, Robin drove the Batmobile.
+
+Robin drove the Batmobile, whenever Batman was away.
+
+Robin drove the Batmobile whenever Batman was away.
+A handy list of subordinating conjunctions
+after
+although
+as
+as if
+as long as
+as much as
+as soon as
+as though
+because
+before
+by the time
+even if
+even though
+if
+in case
+in order that
+in the event that
+lest
+now that
+once
+only
+only if
+provided that
+since
+so
+supposing
+than
+that
+though
+till
+unless
+until
+when
+whenever
+where
+whereas
+wherever
+whether or not
+while
+Subordinating conjunction FAQs
+What are subordinating conjunctions?
+Subordinating conjunctions are words and phrases that connect dependent clauses to independent clauses. They usually show a cause-and-effect relationship or a shift in time or place. 
+
+What are examples of subordinating conjunctions?
+We can’t go to the mall because our car broke down. 
+
+Whenever I’m in Philadelphia, I always get a cheesesteak. 
+
+How do you use subordinating conjunctions in a sentence?
+Place subordinating conjunctions at the beginning of the dependent clause. If the dependent clause comes before the independent clause, put a comma at the end of the dependent clause. 
+
+Can subordinating conjunctions start a sentence?
+Subordinating conjunctions often start a sentence whenever the dependent clause comes first. 
+......................................................................................
+Identifying Independent and Dependent Clauses
+When you want to use commas and semicolons in sentences and when you are concerned about whether a sentence is or is not a fragment, a good way to start is to be able to recognize dependent and independent clauses. The definitions offered here will help you with this.
+
+Independent Clause
+
+An independent clause is a group of words that contains a subject and verb and expresses a complete thought. An independent clause is a sentence.
+
+Jim studied in the Sweet Shop for his chemistry quiz.
+Dependent Clause
+
+A dependent clause is a group of words that contains a subject and verb but does not express a complete thought. A dependent clause cannot be a sentence. Often a dependent clause is marked by a dependent marker word.
+
+When Jim studied in the Sweet Shop for his chemistry quiz . . . (What happened when he studied? The thought is incomplete.)
+Dependent Marker Word
+
+A dependent marker word is a word added to the beginning of an independent clause that makes it into a dependent clause.
+
+When Jim studied in the Sweet Shop for his chemistry quiz, it was very noisy.
+Some common dependent markers: after, although, as, as if, because, before, even if, even though, if, in order to, since, though, unless, until, whatever, when, whenever, whether, and while.
+
+Connecting independent clauses
+
+There are two types of words that can be used as connectors at the beginning of an independent clause: coordinating conjunctions and independent marker words.
+
+1. Coordinating Conjunction
+
+The seven coordinating conjunctions used as connecting words at the beginning of an independent clause are and, but, for, or, nor, so, and yet. When the second independent clause in a sentence begins with a coordinating conjunction, a comma is needed before the coordinating conjunction:
+
+Jim studied in the Sweet Shop for his chemistry quiz, but it was hard to concentrate because of the noise.
+2. Independent Marker Word
+
+An independent marker word is a connecting word used at the beginning of an independent clause. These words can always begin a sentence that can stand alone. When the second independent clause in a sentence has an independent marker word, a semicolon is needed before the independent marker word.
+
+Jim studied in the Sweet Shop for his chemistry quiz; however, it was hard to concentrate because of the noise.
+Some common independent markers: also, consequently, furthermore, however, moreover, nevertheless, and therefore.
+
+Connecting dependent and independent clauses
+
+Subordinating conjunctions allow writers to construct complex sentences, which have an independent clause and a subordinate (or dependent) clause. Either clause can come first.
+
+The students acted differently whenever a substitute taught the class.
+Whenever a substitute taught the class, the students acted differently.
+Note that the clauses are separated with a comma when the dependent clause comes first.
+
+Some common subordinating conjunctions: after, as, before, once, since, until, and while.
+
+Some Common Errors to Avoid
+Comma Splices
+
+A comma splice is the use of a comma between two independent clauses. You can usually fix the error by changing the comma to a period and therefore making the two clauses into two separate sentences, by changing the comma to a semicolon, or by making one clause dependent by inserting a dependent marker word in front of it.
+
+Incorrect: I like this class, it is very interesting.
+Correct: I like this class. It is very interesting.
+(or) I like this class; it is very interesting.
+(or) I like this class, and it is very interesting.
+(or) I like this class because it is very interesting.
+(or) Because it is very interesting, I like this class.
+Fused Sentences
+
+Fused sentences happen when there are two independent clauses not separated by any form of punctuation. This error is also known as a run-on sentence. The error can sometimes be corrected by adding a period, semicolon, or colon to separate the two sentences.
+
+Incorrect: My professor is intelligent I've learned a lot from her.
+Correct: My professor is intelligent. I've learned a lot from her.
+(or) My professor is intelligent; I've learned a lot from her.
+(or) My professor is intelligent, and I've learned a lot from her.
+(or) My professor is intelligent; moreover, I've learned a lot from her.
+Sentence Fragments
+
+Sentence fragments happen by treating a dependent clause or other incomplete thought as a complete sentence. You can usually fix this error by combining it with another sentence to make a complete thought or by removing the dependent marker.
+
+Incorrect: Because I forgot the exam was today.
+Correct: Because I forgot the exam was today, I didn't study.
+(or) I forgot the exam was today.
+......................................................................................
+
+Sentence Fragments:
+
+Fragments are incomplete sentences. Usually, fragments are pieces of sentences that have become disconnected from the main clause. One of the easiest ways to correct them is to remove the period between the fragment and the main clause. Other kinds of punctuation may be needed for the newly combined sentence.
+Below are some examples with the fragments shown in red. Punctuation and/or words added to make corrections are highlighted in blue. Notice that the fragment is frequently a dependent clause or long phrase that follows the main clause.
+
+Fragment: Purdue offers many majors in engineering. Such as electrical, chemical, and industrial engineering.
+Possible Revision: Purdue offers many majors in engineering, such as electrical, chemical, and industrial engineering.
+Fragment: Coach Dietz exemplified this behavior by walking off the field in the middle of a game. Leaving her team at a time when we needed her.
+Possible Revision: Coach Dietz exemplified this behavior by walking off the field in the middle of a game, leaving her team at a time when we needed her.
+Fragment: I need to find a new roommate. Because the one I have now isn't working out too well.
+Possible Revision: I need to find a new roommate because the one I have now isn't working out too well.
+Fragment: The current city policy on housing is incomplete as it stands. Which is why we believe the proposed amendments should be passed.
+Possible Revision: Because the current city policy on housing is incomplete as it stands, we believe the proposed amendments should be passed.
+You may have noticed that newspaper and magazine journalists often use a dependent clause as a separate sentence when it follows clearly from the preceding main clause, as in the last example above. This is a conventional journalistic practice, often used for emphasis. For academic writing and other more formal writing situations, however, you should avoid such journalistic fragment sentences.
+
+Some fragments are not clearly pieces of sentences that have been left unattached to the main clause; they are written as main clauses but lack a subject or main verb.
+
+No main verb
+
+Fragment: A story with deep thoughts and emotions.
+Possible Revisions:
+Direct object: She told a story with deep thoughts and emotions.
+Appositive: Gilman's "The Yellow Wallpaper," a story with deep thoughts and emotions, has impressed critics for decades.
+Fragment: Toys of all kinds thrown everywhere.
+Possible Revisions:
+Complete verb: Toys of all kinds were thrown everywhere.
+Direct object: They found toys of all kinds thrown everywhere.
+Fragment: A record of accomplishment beginning when you were first hired.
+Possible Revisions:
+Direct object: I've noticed a record of accomplishment beginning when you were first hired
+Main verb: A record of accomplishment began when you were first hired.
+No Subject
+
+Fragment: With the ultimate effect of all advertising is to sell the product.
+Possible Revisions:
+Remove preposition: The ultimate effect of all advertising is to sell the product.
+Fragment: By paying too much attention to polls can make a political leader unwilling to propose innovative policies.
+Possible Revisions:
+Remove preposition: Paying too much attention to polls can make a political leader unwilling to propose innovative policies.
+Fragment: For doing freelance work for a competitor got Phil fired.
+Possible Revisions:
+Remove preposition: Doing freelance work for a competitor got Phil fired.
+Rearrange: Phil got fired for doing freelance work for a competitor.
+These last three examples of fragments with no subjects are also known as mixed constructions, that is, sentences constructed out of mixed parts. They start one way (often with a long prepositional phrase) but end with a regular predicate. Usually the object of the preposition (often a gerund, as in the last two examples) is intended as the subject of the sentence, so removing the preposition at the beginning is usually the easiest way to edit such errors.
+...........................................................................................
+Common Mistakes:
+
+There are some common mistakes that students and correctors make. Here are some that may appear commonly:
+Word usage: know
+To know something means to have knowledge about that ‘something’. Sometimes students write “can know” to mean the acquisition of knowledge. For example, “I can know English better by traveling abroad,” or “In science class, I could know the bad effects of plastic.”
+However, “learn” or “get to know”/“come to know” is more suitable to talk about gaining knowledge. For example, “I can learn English better by traveling abroad” and “In science class, I got/came to know about the bad effects of plastic.”
+
+
+Word usage: touch/feel
+Students sometimes use the verbs “touch” and “feel” when they actually mean “to experience” or “to know about”. This happens because the relevant Japanese word can be used in both cases. You should correct such instances with an appropriate verb depending on the context.
+Sample:
+Mistake sample
+In Kyoto, you can feel traditional culture.
+Correction sample
+In Kyoto, you can learn about traditional culture.
+
+
+Word usage: “local” v/s “rural”
+In Japanese, the same word can mean both “rural” and “local”, so students often use “local” when they actually mean “rural”. In English, the adjectives aren’t always interchangeable. A hospital in central Tokyo would be the local/regional hospital for someone living in the neighborhood, but Tokyo is an urban area, so such a hospital is not ‘rural’. That’s why, this usage should be corrected.
+Sample:
+Mistake sample
+Most local hospitals don’t have advanced medical equipment.
+Correction sample
+Most rural hospitals don’t have advanced medical equipment.
+Word Usage: “mansion”
+Japanese people use the word “mansion” to mean big apartment buildings. In English, a mansion is something grand, but the word was adopted into Japanese to mean ‘modern residential buildings’. You might not notice the implication, but the word usage should be checked, and corrected when necessary, just like “ecobag”. Check this reference if you want to know more.
+Sample:
+Mistake sample
+We should make more mansions in the rural area.
+Correction sample
+We should make more apartments in the rural area.
+Correction sample
+We should make more modern residential buildings in the rural area.
+
+
+Word usage: “drive” for self-driving cars
+Self-driving cars are automated and don’t require a human driver. Using “drive” in this case is illogical. There are various types of automation and some cars may have both manual and automation features. However, when describing the features of self-driving cars, students generally describe fully automated cars. In such cases, the logical issue must be resolved. 
+Mistake sample: If you drive a self-driving car, you can relax. Correction sample: If you ride a self-driving car, you can relax.
+
+Mistake sample: Even the elderly and disabled people can drive a self-driving car. Correction sample: Even the elderly and disabled people can use a self-driving car.
+
+Mistake sample: Drivers can do other things while driving. Correction sample: People can do other things while traveling.
+Regarding the samples: if we do activities related to driving even in a self-driving car, we would have to be attentive, and ‘relaxing’ would not be possible; elderly and disabled people cannot use the manual mode of a self-driving car for the same reason they cannot drive a regular car (possibility of accidents due to their physical and psychological limitations, etc.). 
+
+
+Word usage: “drive” for bicycles
+The verb “drive” is generally used for vehicles with engines. For bicycles, “ride” is suitable: we can ride a bicycle. Similarly, people using bicycles as a transport are called bicycle riders rather than bicycle drivers. (Of course, bicyclists and cyclists are also correct.)
+Word usage: “Eco-bags” 
+Students tend to use “eco-bags” or “ecobags” when they want to write about reusable bags, but it should be corrected to “reusable bags” or at least “eco-friendly bags”.
+Mistake sample
+I can use an eco-bag to improve the natural environment.
+Correction sample
+I can use a reusable bag to improve the natural environment.
+
+
+Word usage: “smoking people”
+Students sometimes write “smoking people” instead of “people who smoke (cigarettes)”. Either “smokers” or “people who smoke” is correct. 
+Verb usage: the missing “should” for suggestions
+When sharing suggestions and describing expected future results, students often use the simple present tense without “should”, which gives the impression that the action is already being implemented. However, if the student is to write about suggestions, “should” should be used to indicate which point the suggestion actually is. 
+Correctors sometimes misinterpret the use of the simple present tense and think that the action is already being implemented; they then recommend suggesting actions that aren’t already being carried out. However, the verb should actually be corrected.
+Mistake sample
+Raising children is very expensive because education costs are high. To help parents, the government provides financial support. This can improve the child-rearing environment in Japan.
+Correction sample
+Raising children is very expensive because education costs are high. To help parents, the government should provide financial support. This can improve the child-rearing environment in Japan.
+Sample suggestion
+To describe your suggestion, you should use “should”, for example, “should improve”.
+Verb usage: “improve”
+Students sometimes write “improve a problem”. To improve is to make something better. Making a problem better doesn’t express a clear meaning. We can improve the situation, not the problem. We can solve a problem. 
+Article usage: “the”
+Grammarly sometimes recommends adding “the” before some proper nouns. However, articles are not generally used with proper nouns other than in certain cases (entities that are a combination like the USA, mountain ranges like the Alps, rivers like the Nile, etc.). Names of some establishments or buildings traditionally take “the” (i.e., the Eiffel Tower), but otherwise, it should not be used with names of places. 
+Mistake sample
+Tourists can visit the Kiyomizu Temple in Kyoto.
+Correction sample
+Tourists can visit Kiyomizu Temple in Kyoto.
+ronoun usage: relative pronouns
+The usage of relative pronouns is a much-discussed issue. We previously shared some resources in the group chats. We urge you to go through them again. Here are the links:
+When to use which pronoun (please also go through the other resources linked in the blog itself)
+Clauses with relative pronouns (necessary for complex structures)
+Pronoun usage: which v/s that
+The usage of these two as relative pronouns in a subordinate clause completely depends on the meaning. Remember – 
+“which” and “that” can both be used to begin a restrictive clause. However, for non-restrictive clauses, only “which” can be used, not “that”. 
+The Grammarly program follows a rule of thumb to simplify the issue: “that” for restrictive clauses and “which” for non-restrictive clauses. If you study the references linked above, you can use your own judgment to avoid unnecessary or wrong corrections.
+Number of Nouns
+There have been some reports on corrections related to countable and uncountable nouns, singular and plural forms, etc. Here are some of the frequent errors.
+Some nouns only have one form for both singular and plural forms, such as deer, sheep, and furniture. There are a lot of deer in Nara, not deers!
+Staff is always plural because it means “employees/personnel”. One person can be a member of staff. There can be a number of staff, few staff, etc.
+Some nouns have different forms depending on the context, such as “fish”. This word is often used in global warming/fish catch essays. Remember, “fish” simply indicates the creature and can be both singular and plural. On the other hand, “fishes” is only used to indicate varieties (more than one species). For example, 
+ 
+“Fish eat plastic by mistake and die”
+“Fishes that cannot live in warm water are migrating to northern parts of the sea.”
+“The number of” can be used with countable nouns while “the amount of” can be used with uncountable nouns. One common scope of mistaking the usage is when using a noun that can be both countable and uncountable depending on the context. Consider these examples –
+
+Time
+“The amount of time spent online” (duration) 
+“The number of times I watched this movie” (frequency)
+Fish
+“The amount of fish caught this year” (fish catch is measured in units such as tons) 
+“The number of fish living in the ocean” (though not counted one by one, the number is considered in such cases rather than the amount)
+
+..........................................................................
+Punctuation Usage:
+Some common errors occur when correcting certain punctuation marks: comma, semi-colon, and colon. Here are some relevant uses of these marks:
+
+I: Comma II: I have been to Cape Soya, the northernmost point of Japan. Explanation: The comma is separating an appositive.
+
+I: Comma II: The countryside is peaceful, quiet, and surrounded by nature. Explanation: The comma is separating items on a list of adjectives.
+Mistake Type: A comma before the conjunction in a list of less than 3 items Sample: The countryside is peaceful, and quiet. Correct Version: The countryside is peaceful and quiet.
+
+Mistake Type: A comma separating the verb from its subject or object Sample: The countryside, is peaceful. Correct Version: The countryside is peaceful.
+
+Mistake Type: Missing comma after introductory phrases and clauses Sample: With practice you’ll get better. Correct Version: With practice, you’ll get better.
+
+Mistake Type: Missing comma before a coordinating conjunction joining two clauses Sample: You wrote well and with practice you’ll get better. Correct Version: You wrote well, and with practice, you’ll get better.
+
+Mistake Type: Comma splice (using only a comma without any conjunction to join two clauses) Sample: Cities are convenient, however, there is a lot of noise. 
+
+Correct Version: Cities are convenient; however, there is a lot of noise.
+
+Correct Version: Cities are convenient. However, there is a lot of noise.
+
+Correct Version: Cities are convenient, but there is a lot of noise.
+
+Mistake Type: Keep practicing, you will get better.
+
+Correct Version: Keep practicing; you will get better.
+
+Correct Version: Keep practicing. You will get better.
+
+Correct Version: Keep practicing, and you will get better.
+
+Note: “however”, “therefore”, “thus”, etc. are adverbs, not conjunctions. When used as linking words, these can show a connection between separate sentences but cannot join two sentences into one single sentence.
+.....................................................................................
+
+The use of “for example” and relevant phrases:
+
+ “such as” and “for example” are used to give examples. These phrases can be used interchangeably when the example is a phrase (i.e., a list of items). However, when the example is written as a complete clause (dependent or independent), only “for example” should be used. 
+Acceptable Usage:
+Kyoto has many famous temples, such as Kinkakuji and Fushimi Inari Taisha. 
+[the examples are only phrases]
+Kyoto has many famous temples, for example, Kinkakuji and Fushimi Inari Taisha.
+[the examples are only phrases]
+Kyoto has many famous temples. For example, a popular spot is Fushimi Inari Taisha.
+[the example is a complete sentence]
+Convenience stores are helpful for night-shift workers. For example, when they need to buy food, they can easily buy it as the stores are open 24 hours.
+[the example is a complete sentence]
+I can use my smartphone to study, for example, when I need to look up a word.
+[the example is a subordinate/dependent clause (not a complete sentence)]
+* “For example” and “for instance” can be used interchangeably.
+
+“such as” and commas
+When “such as” is used to list examples, it is usually separated with commas. In most cases, the meaning of the sentence remains the same even without the examples. However, when the examples are a crucial part of the meaning, the phrase should be used without commas.
+I need to eat fruits such as oranges and limes to get enough vitamin C.
+[the examples are crucial for the meaning as not all fruits are good sources of vitamin C]
+I need to eat citrus fruits, such as oranges and limes, to get enough vitamin C.
+[the examples are not crucial for the meaning as all citrus fruits are good sources of vitamin C]
+
+Examples, and so on
+Phrases such as “such as” and “for example” imply that the items mentioned as examples are some out of many. Phrases such as “etc.” and “and so on” mean the same. Thus, using both types of phrases for the same set of examples is redundant. 
+Acceptable Usage:
+We should avoid using plastic bags, plastic straws, and so on.
+We should avoid using plastic bags, plastic straws, etc.
+We should avoid using plastic bags, plastic straws, and other plastic products.
+When is it not redundant?
+Children can enjoy the natural environment in the countryside. For example, they can listen to the sounds of birds, water, wind, and so on.
+
+In the above sentence, “for example” is being used to introduce an example of what can be enjoyed in the natural environment, and “and so on” is being used for examples of sounds that children can listen to. In such a case, you don’t have to cut any of the phrases. 
+
+
+Capitalization: “internet”
+“Internet” can be capitalized or not capitalized; either form is acceptable as long as the same form is maintained throughout one piece of text (essay). Thus, if a student writes “internet” throughout the essay, you don’t have to capitalize it, and vice versa. 
+
+Specific expression: “a lot of nature”
+Students often write “a lot of nature” to describe an abundance of nature. English teachers in Japan teach students that “a lot of nature” is incorrect. Thus, we should make necessary corrections. Only writing “there is nature” (indicating merely the existence of the natural environment) is also vague and must be corrected. Below are some possible expressions you can use for the correction depending on the context:
+Specific expression: a lot of nature
+
+Students often write “a lot of nature” to describe an abundance of nature. English teachers in Japan teach students that “a lot of nature” is incorrect. Thus, we should make necessary corrections. Only writing “there is nature” (indicating merely the existence of the natural environment) is also vague and must be corrected. Below are some possible expressions you can use for the correction depending on the context:
+
+Possible expressions: a lot of greenery Example sentences: The countryside has a lot of greenery. There is a lot of greenery in the countryside.
+
+Possible expressions: abundant nature Example sentences: The countryside has abundant nature. There is abundant nature in the countryside.
+
+Possible expressions: scenic landscapes Example sentences: The countryside has scenic landscapes that can help relieve stress, so we should make these areas more accessible to urban tourists who want a quick break from the hectic city life.
+Specific expression: “move my body”
+Students sometimes use this expression (i.e., “I like to move my body”) to explain why they like P.E. or sports activities, but you should correct it to “exercise”, “do some exercise” or “work out”.
+
+
+Logical issue: “wearing helmets reduces accidents”
+In the essay about bicycle accidents,  some students suggest wearing helmets as a method to reduce the number of bicycle accidents. Wearing helmets might reduce the number of fatal accidents (in the case of an accident, the risk of fatal injuries will be low if the rider has a helmet on); however, it cannot prevent accidents, so simply the act of wearing a helmet cannot reduce the number of accidents. This is a logical issue that must be corrected and addressed in the comment (samples will be added to the comment guide soon).
+Punctuation: quotations
+Students sometimes use quotation marks in an attempt to highlight something, but not all things can be quoted in an essay. 
+Quotes, dialogues, and excerpts must be quoted.
+Titles of artistic works (such as names of books and movies) may or may not be quoted - they should actually be italicized, but the students cannot use italics on the SLC website.
+Anything else should not be quoted. If the student uses quotation marks, you should remove the marks.
+Please check the following examples:
+Please check the following examples:
+
+Correct: When I was in junior high school, I used to fear math, but my teacher taught me kindly and said, “I believe in you.” That inspired me to study math harder.
+Correct: I watched Your Lie in April.
+Incorrect: If I could meet any fictional character, I would choose “Hinata Shoyo” from Haikyuu.
+Incorrect: “Mt. Fuji” is one of the most famous landmarks in Japan.
+
+
+
+
