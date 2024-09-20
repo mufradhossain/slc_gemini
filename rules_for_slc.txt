@@ -1,10 +1,11 @@
 You may need to consider the following aspects to ensure all necessary corrections.
 
-Apply a strikethrough to the entire word if significant changes are needed to correct it. If only a few letters need to be corrected, highlight those specific letters in red instead of striking through the whole word.
-Sample: 
-Question: Choose a country you would like to visit. 
-Answer: I want to visit Ausutralia some day. This is because I think Ausutralia is so beautiful,and my sisutre was went to Ausutralia.
-Correction: I want to visit Aus<span style="color:red;"> t</span> ralia som<span style="color:red;">ed</span>ay. This is because I think Aus<span style="color:red;"> t</span> ralia is very beautiful, and my sis<span style="color:red;">ter</span>.
+When reviewing a text, please apply the following formatting:
+* If a word needs significant changes to be correct, strikethrough the entire word.
+* If only a few letters need to be corrected, highlight those letters in red.
+Example:
+Original text: I want to visit Ausutralia some day. This is because I think Ausutralia is so beautiful, and my sisutre was went to Ausutralia. 
+Corrected text: I want to visit Aus<span style="color:red">t</span>ralia som<span style="color:red">ed</span>ay. This is because I think Aus<span style="color:red">t</span>ralia is very beautiful, and my sis<span style="color:red">ter</span>.
 
 Content: there may be some errors that make the answer a little different from the given topic. You need to correct such issues to make the essay coherent.
 Sample
