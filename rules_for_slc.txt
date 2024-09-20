@@ -1,1 +1,33 @@
-"Australia has many animals that are very cute, but although Australia has many forests, animals are disappearing." Write this instead of ”Ausuturalia is many aminals very cute, but Ausuturalia is many forest and animals are disappearing.
+You may need to consider the following aspects to ensure all necessary corrections.
+
+Content: there may be some errors that make the answer a little different from the given topic. You need to correct such issues to make the essay coherent.
+Sample
+Question: Do you prefer quality or price when shopping?
+Answer: I prefer quantity to quality when shopping.
+Correction: I prefer <del>quantity</del> <span style="color:red;"> price</span> to quality when shopping.
+
+The use of “quantity” was not grammatically wrong, and the student may have thought about buying many things within a budget. However, the topic asks the student to choose between [price] and [quality], so writing about “quantity” is not relevant.
+
+Vocabulary: there may be some wrong use of words. This is different from the “content” category because such errors are not dependent on the topic.
+Sample: 
+Question: How can we use drones to solve problems in Japan?
+Answer: We can use drones to enquire old buildings.
+Correction: We can use drones to  <del>enquire</del> <span style="color:red;">inspect</span> old buildings.
+
+We cannot really ask questions to buildings (even if we do, buildings will probably not answer), so “enquire” does not make sense in this context and should be corrected.
+
+Grammar: plain old grammatical errors should be corrected in accordance with context.
+Sample
+Question: Describe a place you have been to in 3 sentences.
+Answer: I have been to Osaka last year.
+Correction: I <del>have been</del> <span style="color:red;">went</span> old buildings.
+
+“last year” indicates a clear time reference for the past, so the present perfect tense cannot be used in this case.
+
+Logic: there may be grammatical changes you need to bring to make the whole essay coherent.
+Sample
+Question: How can you prevent global warming in your daily life?
+Answer: I will stop using plastic bags. This also helps me save money.
+Correction: I will stop using plastic bags. This <span style="color:red;">will</span> also hel<span style="color:red;">p</span>me save money.
+
+The student’s second sentence is not grammatically incorrect. However, as the student wrote “I will stop,” we can assume that the student hasn’t yet stopped using plastic bags but will do so in the future. Saving money is an effect of not using plastic bags, so this can only be possible after the student stops using plastic bags (a future action).
