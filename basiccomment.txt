@@ -1,0 +1,424 @@
+There are three main sections: Content, Grammar, and Writing Tips. Let’s go through each section in detail:
+
+1. Content
+This section focuses on the substance of the essay. It includes:
+
+Engaging Remarks: These are comments that specifically address the content of the essay. They should be tailored to the essay’s topic and not be generic. For example, you might highlight a particularly strong argument or an interesting point the student made.
+Suggestions for Improvement: Here, you provide constructive criticism. This could involve pointing out areas where the argument could be stronger, suggesting additional evidence, or recommending a clearer structure.
+Conclusion for the Student: This is a summary of your feedback on the content. It should be encouraging and highlight the main points the student did well, along with areas for improvement.
+2. Grammar
+This section deals with the technical aspects of writing. It includes:
+
+Helpful Guidance: Offer clear explanations for any grammatical corrections. For example, if a student frequently misuses commas, explain the correct usage and provide examples.
+Encouraging Remarks: End your grammar feedback with positive comments to motivate the student. Acknowledge their efforts and improvements, even if there are still areas that need work.
+3. Writing Tips
+This section provides general advice on writing style and technique. It includes:
+
+Accuracy: Ensure that your feedback is precise and correct. Avoid vague comments and be specific about what needs to be improved.
+Descriptive and Specific: Your comments should be detailed and specific. Instead of saying “good job,” explain what exactly was done well, such as “Your thesis statement is clear and well-supported by evidence.”
+Example Feedback
+The image also provides an example of how to structure your feedback:
+
+Content: “Your overall essay was very logical, and I particularly liked your second point. No student should have to be stressed about what to wear to school every day or feel inferior because of clothing. A school is a place for educating and developing oneself to make a better society, and no inequality should affect that goal. I am impressed with the way you structured your thoughts.”
+Grammar: “Note that we cannot start a sentence with ‘Because’ to refer to something in the previous sentence. You have to either join the two sentences or start with ‘It is because.’ Instead of repeating the word ‘Also,’ you may use words like ‘In addition,’ ‘Moreover,’ and ‘Furthermore’ to make the writing more natural. You’re doing a great job, and the errors are not all that serious. Keep up the practice, and your writing will become flawless very soon!”
+This guide is designed to help you provide balanced feedback that is both constructive and encouraging, helping the student improve their writing skills while also feeling motivated to continue working hard.
+..........................................................................................
+COMPONENTS: Engaging Remarks
+You should begin your comment with engaging remarks to interact with the student and make the student interested in reading the whole comment. This is your chance to appreciate the content of the essay and share your thoughts on it. 
+
+The engaging remarks should always be specific to each essay. They should never be generalized (something that can be written for different essays).
+
+Below are good and bad comment samples for different answer samples:
+COMPONENTS: Engaging Remarks
+You should begin your comment with engaging remarks to interact with the student and make the student interested in reading the whole comment. This is your chance to appreciate the content of the essay and share your thoughts on it. 
+
+The engaging remarks should always be specific to each essay. They should never be generalized (something that can be written for different essays).
+
+Below are good and bad comment samples for different answer samples:
+
+Sample 1 (short essay):
+
+Student’s answer (3-sentence essay): I recommend Seirei no Moribito. It was written by Nahoko Uehashi. Please read it!
+Engaging remarks (1) Addresses unique points from the essay ✔: This is my first time learning about Seirei no Moribito. I looked it up online and found that it was also made into an anime. The novel must be quite popular! I hope your classmates also enjoy the novel. 
+Engaging remarks (2) Can be written for most essays on the same topic ❌: That’s a great answer! You have properly recommended your favorite novel and also mentioned the name of the author.  I hope your classmates also enjoy the novel. 
+
+Sample 2 (regular essay):
+Student’s answer: I personally believe convenience stores have a positive influence on Japanese society. First, we can buy something from a convenience store anytime because it is open 24 hours a day. Second, we can buy a wide range of products of consistent quality at convenience stores anytime, anywhere. There are various things such as food and stationery. For these reasons, I think that convenience stores have a good impact on our society.
+Engaging remarks (1) Addresses unique points from the essay ✔: Convenience stores are indeed necessary for Japanese society. People can go and buy things they need whenever they want from convenience stores since they are open around the clock. A variety of goods can fulfill the needs of many people.
+
+Engaging remarks (2) Can be written for most essays on the same topic ❌: Convenience stores are indeed necessary for Japanese society. People can go and buy things they need whenever they want from convenience stores since they are open around the clock. You are right that convenience stores have a positive influence and make lives easier. 
+.....................................................................................
+COMPONENTS: Helpful Guidance
+You may have to make a lot of corrections, but you don’t have to explain all of them in the comment. Pick some major ones that you can explain in a clear and easy-to-understand way. If the explanation is too complicated, the student may not understand it.
+
+You should always point out why something is right or wrong - focus on the reason - not describe corrections in the comment. If the explanation gets complicated, you can instead suggest alternative expressions to show the student different possibilities.
+
+Below are good and bad samples of explanations and suggestions as helpful guidance:
+
+Sample 1
+
+Student’s answer excerpt: Japanese meals have various ingredients. I feel when I eat Japanese food.
+
+Corrected excerpt: Japanese meals have various ingredients. I feel <span style="color:red;">satisfied</span> when I eat Japanese food.
+Relevant guidance (1) Explains why the addition is necessary ✔: To clearly describe how you feel, you can write “I feel satisfied” or “I feel happy” in the nth sentence.
+
+The sample shows the necessity of the addition and also provides an alternative suggestion.
+Relevant guidance (2) Doesn’t explain the reason ❌: Instead of only “I feel”, you need to write “I feel satisfied” to complete the meaning*.
+* “to complete the meaning” is not a clear reason because the student cannot understand why the student’s version was incomplete.
+
+Sample 2 
+Student’s answer excerpt: Parents should allow children use the internet freely.
+Corrected excerpt: Parents should allow children <span style="color:red;">to</span> use the internet freely.
+Relevant guidance (1) Explains why the addition is necessary ✔: It is correct to write “allow someone to do something”: adding “to” is necessary in this structure. That’s why I added “to” in your nth sentence. 
+
+The sample shows the necessity of adding the preposition and also explains the general structure for future reference.
+
+
+Relevant guidance (2) Doesn’t explain the reason ❌: There’s a missing preposition* in your nth sentence, so I added “to”.
+* The student may not understand why that certain word is considered missing. It might mislead beginner students to think that a preposition must always be used in a sentence.
+pecial case:
+Regarding Sample 2, telling the student that something was missing may be okay when the missing element is a vital part of the sentence structure (something that must always be there), for example, the subject of a verb. When you have enough space in the comment, you should, of course, try to provide detailed explanations.
+
+Sample 2.2
+
+Student’s answer excerpt: Should allow children use the internet freely.
+
+Corrected excerpt: <span style="color:red;">Parents</span> should allow children <span style="color:red;">to</span> use the internet freely.
+Relevant guidance ✔ Brief version: The subject is missing in your nth sentence, so I added “Parents”.
+
+Relevant guidance ✔ Detailed version: The nth sentence feels as if you are giving an order to the reader. However, parents are the ones who would allow their children to do something, so you need to write the subject (parents) clearly.
+.....................................................................................
+Prioritizing Helpful Guidance
+When adding helpful guidance to your comment, prioritize errors that (1) you can explain easily,  and/or (2) errors that the student may not understand on his or her own. If the explanation seems complicated, try to share alternative suggestions instead. Everything should fit within the word limit. You might have to choose from various types -
+different types of writing issues into three priority levels: High, Medium, and Low. Each priority level is further divided into three types of issues: Cohesion issues, Structural issues, and Logical issues. The table also includes footnotes to clarify certain terms.
+
+Priority Levels and Types of Issues
+High Priority
+Cohesion Issues: Grammatical errors that need to be explained using complicated grammatical terms (e.g., tense, subject-verb agreement, conjunction usage, pronoun usage, singularity & plurality).
+Structural Issues: Errors that can be explained without using complicated grammatical terms (e.g., dangling modifier, parallelism, article, preposition, comma splice, adjective order).
+Logical Issues: No entry.
+Medium Priority
+Cohesion Issues: Easy-to-explain grammatical errors.
+Structural Issues: Suggestions for further improvement.
+Logical Issues: No entry.
+Low Priority
+Cohesion Issues: No entry.
+Structural Issues: Difficult-to-explain grammatical errors.
+Logical Issues: Minor errors such as punctuation, capitalization, and spelling.
+Footnotes
+Footnote 1: Errors that have to be explained with complicated grammatical terms (e.g., tense, subject-verb agreement, conjunction usage, pronoun usage, singularity & plurality).
+Footnote 2: Errors that can be explained without using complicated grammatical terms (e.g., dangling modifier, parallelism, article, preposition, comma splice, adjective order).
+Detailed Explanation
+High Priority: These issues are the most critical and need immediate attention. Cohesion issues at this level involve complex grammatical errors that can significantly affect the readability and understanding of the text. Structural issues at this level are errors that can be explained in simpler terms but still need to be addressed promptly.
+Medium Priority: These issues are important but not as urgent as high-priority issues. Cohesion issues here are easier to explain and fix. Structural issues involve suggestions for further improvement, which can enhance the overall quality of the text but are not immediately critical.
+Low Priority: These issues are the least critical and can be addressed last. Structural issues at this level are difficult to explain and may require more in-depth understanding of grammar. Logical issues at this level include minor errors like punctuation, capitalization, and spelling, which do not significantly impact the overall readability but should still be corrected.
+.......................................................................................
+Sample
+Think about the various types of errors in each essay and decide which to include in the comment.
+
+Student’s answer 
+I disagree1 with having more security cameras in public places. First,it is useful for victims of crime and the police. 2By installing many security cameras,the possibility of victims or criminals being caught on camera will go up. So3, the police can research by4 the videos. Second,dengerous5 actions will be prevented. I think that more security cameras make6 public safety better. That is why I agree with having more security cameras in public places7.
+
+The essay has the following errors:
+The topic sentence/introduction contradicting the rest of the essay
+Sentence structure and dangling modifier
+Coordinating conjunction at the start of a sentence
+Wrong preposition usage
+Spelling (minor)
+Tense (logical)
+Structural error: almost identical introduction and conclusion - no correction 
+Multiple spacing errors (minor)
+
+Here, error 7 is a structural issue and it must be prioritized in the comment.
+Error 6 is something the student might not be able to understand alone: the sentence was grammatically okay, but for the flow of the essay, some logical correction is necessary.
+Other errors may also be included except for the minor ones (errors 5 & 8).
+Now let’s see 2 possible ways to write the comment. Different combinations would require different phrasing and presentation to avoid making the comment too long
+Correction sample:
+I <del>dis</del>agree with having more security cameras in public places. First, it is useful for victims of crime and the police. By installing many security cameras, <span style="color:red;">we can increase</span> the possibility of victims or criminals being caught on camera <del>will go up</del>. <del>So</del> <span style="color:red;">Thus</span>, the police can research <del>by</del> the videos. Second, d<span style="color:red;">a</span>ngerous actions will be prevented. I think that more security cameras <span style="color:red;">will</span make public safety better. That is why I agree with having more security cameras in public places.
+Comment sample (1) - 135 words
+Thank you for sharing your opinion in such a nice way! You are right that when we install more security cameras, criminals will know that they are being watched and feel reluctant to commit a crime. Even in the case of a crime, the police can have enough information for investigation. As you are discussing the possible effects of having more security cameras than now, you need to write what will happen after installing more security cameras. That’s why the future tense is suitable in the second-last sentence. The conclusion is very similar to the introduction. You can improve your essay by making them different. You could write the conclusion like this: “That is why I think we should put more security cameras in public places.”
+I really liked your answer. Keep writing. Good luck!
+
+Comment sample (2) - 139 words
+Thank you for sharing your opinion in such a nice way! You are right that when we install more security cameras, criminals will know that they are being watched and feel reluctant to commit a crime. Even in the case of a crime, the police can have enough information for investigation. You mainly explained the necessity of more security cameras, so you actually agree with the idea. Thus, you should write “I agree” in your topic sentence. Also, avoid starting a sentence with coordinating conjunctions such as “so” in formal writing. You can use “Thus” or “Therefore” instead. By the way, you can improve your essay by making the topic and concluding sentences different. For example, “That is why I think we should put more security cameras in public places.”
+I really liked your answer. Keep writing. Good luck!
+..................................................................................
+Explaining Advanced Topics
+Advanced topics are often difficult to explain, so we recommend focusing on other types of explanations and/or suggestions so that the helpful guidance is easy for students to understand. Only correction is enough for errors related to advanced topics that are difficult to explain.
+
+If you can explain such topics in a simple way, you can do so for students whose apparent English proficiency is high. Try to avoid complicated grammatical terms.
+
+Below is a sample with a common error in students’ writing: dangling modifier.
+Student’s answer excerpt: The government should build more cafeterias. By doing so, poor children will get to eat healthy food.
+Corrected excerpt (1) Keeping the modifier: The government should build more cafeterias. By doing so, <span style="color:red;"> the government can ensure</span> poor children will get to eat healthy food.
+Corrected excerpt (2) Changing the modifier: The government should build more cafeterias.<del>By doing so</del> <span style="color:red;">If the government does this</span>, poor children will get to eat healthy food.
+Possible explanation: Because of “by doing so”, the nth sentence gives the impression that poor children will do so (build more cafeterias). However, the government will do it, right? You should clearly mention “the government” as the subject to clarify that meaning.
+.........................................................................................
+COMPONENTS: Encouraging Remarks
+
+End your comment by motivating the student to keep studying and practicing. Remember that our aim is to help the students learn more without being discouraged by mistakes. These can be simple remarks and don’t require special customization. The samples for various cases (attached below) contain various types of encouraging remarks. You can get ideas from those.
+
+Logical encouragement
+In your attempt to encourage the students, please do not write illogical remarks like -
+
+“I enjoyed reading your essay and talking about it with you.” 
+you did not directly talk to the student;
+“You’re doing better than before.”
+you cannot know if the student did better or worse than before as you cannot see a certain student’s past submissions;
+“I look forward to hearing more from you”
+students are anonymous, so you can’t know even if you do get another essay from the same student
+
+Examples of logical alternatives:
+
+✅ I enjoyed reading your essay.
+✅ You are doing well.
+✅ I hope you continue writing more to improve your skills.
+...........................................................................
+Samples for Various Cases
+Cohesion Issues
+Sometimes the essay is on topic but doesn’t fulfill all the requirements of the question. Such issues make the essay incohesive (let’s call them cohesion issues for simplicity) and must be pointed out in the comment. You should also share suggestions regarding what could be included in the essay. Such errors are of a higher priority than grammatical mistakes.
+
+Below are some samples to illustrate the case.
+
+Sample 1
+Question
+People work because they need money to live. Apart from money, what are some other reasons why people work?
+Answer sample:
+In order to become the person I envision in the future, I want to contribute to society<span style="color:red;">.</span> <del>for</del> <span style="color:red;">T</span>he first reason <span style="color:red;">is that</span> <del>because</del> I think it's great to work for people. The second reason is that I want to increase <del>what</del> <span style="color:red;">the number of things</span> I'm interested in. <span style="color:red;">It is b</span>ecause l want to do what I'm interested in after <span style="color:red;">gaining various experiences at</span> work<del>ing</del>.
+
+The student wrote about his or her personal motivation rather than people in general. Also, the second reason doesn’t clarify the connection between working and finding new interests. The latter can be handled through corrections, but the former cannot be corrected easily.
+
+Comment sample (136 words): I agree with you that we work to fulfill our roles in society. Every profession is necessary. Working also allows us to experience new things. You described your personal motivation for working with details. However, note that the question asked you to write about why people work, not only you. A simple way to fix this issue is to add a general introduction at the beginning. Then you could describe your reasons as examples: “Contributing to society and exploring different things are some reasons why people work. For example, I want to live as a responsible citizen by contributing to society through my work.” Also, start the last sentence with “It is because” or “This is because” to explain the previous sentence. If you keep these points in mind, you can write more logically. Keep practicing.
+
+Sample 2
+Question
+It is said that there is a lack of doctors in rural areas in Japan, even though there are plenty of them in most cities. What measures should the government take to solve this problem?
+
+Answer sample 
+[The measures suggested by the student can be applied anywhere, not only in rural areas. For this topic, measures should be specific to rural areas.]: In order to solve the problem of a lack of doctors in rural areas in Japan, I think that <span style="color:red;">the</span> government should <span style="color:red;">take</span> some measures. This problem is caused by many factors. For example, the number of </span> work<del>retiring</del> doctor<span style="color:red;">s who retire early</span> is increasing<span style="color:red;">,</span> and <span style="color:red;">the b</span>urden per doctor is heavy. I <span style="color:red;">can</span> think <span style="color:red;">of</span> two measures. First, <span style="color:red;">t</span>he government should distribute money to <span style="color:red;">rural</span> hospitals to prevent <span style="color:red;">doctors from</span> retir<span style="color:red;">ing</span>. This way, doctors <del>treat</del> will be <span style="color:red;">treated well</span> <del>good</del> and will not retire. Second, the government should <del>build</del> <span style="color:red;">establish <del>to</del><span style="color:red;">for</span> re-employment. If it is easier to return to <span style="color:red;">the</span> workplace, the number of doctors will increase. However<span style="color:red;">,</span> <del>it is</del> <span style="color:red;">the</span> problem <span style="color:red;">is</span> that <span style="color:red;">doctors who</span> have not worked for a long time <del>, so they</del> can't <span style="color:red;">make a</span> proper diagnosis. To solve this problem, <span style="color:red;">the</span> government should make special exams for <del>a</del> <span style="color:red;">rehiring</span> employees <span style="color:red;">in rural hospitals</span>. These two <del>solutions</del> <span style="color:red;">measures</span> will solve <span style="color:red;">the problem of the lack of</span> doctors <del>problem</del> <span style="color:red;">in rural areas</span>.
+
+Comment sample (142 words): I also agree that the government should improve the facilities in rural hospitals and increase the pay of doctors there so that more doctors will be willing to keep working there. The content of your paragraph is pretty good, but there are a few errors. The suggestions you gave can be implemented in both rural and urban areas. Note that the question asks specifically about the shortage in rural areas. That’s why it is important to clearly mention “rural hospitals” or “rural areas”. I have added such details to your suggestions. Also, doctors can retire due to old age; the problem is early retirement. Thus, you can write "prevent doctors from retiring early" or “prevent early retirement” to present the idea clearly. I believe you have the potential to write better, so please keep exploring new ideas and enhance your writing skills.
+
+Note: The cohesion issue in this essay could be addressed through both correction and comment. The other issue pointed out in this comment is a logical issue - a grammatical correction for “prevent retire” may simply be “prevent retirement” or “prevent from retiring”, but simply that would indicate that doctors will never be allowed to retire.
+........................................................................................
+Structural Issues:
+Sometimes, the students don’t follow the proper structure for an essay (a clear introduction followed by a body and conclusion) or repeat the introduction in the conclusion. These make the essay structure erroneous; let’s call them “structural issues” or “structural errors” for simplicity.
+✅ The conclusion is not mandatory for descriptive essays (where the students don’t have to justify anything). If a student does write all three parts, that’s great, but if a student skips the conclusion, you don’t have to consider it a structural error.
+✅ All three essay parts are necessary for an argumentative/opinionative essay (where the students have to pick a side on a topic and defend/justify their view). Any missing part should be considered a structural error.
+The guide on essay structure elaborates on these. Below are samples for comments.
+Type 1: Lack of a complete introduction-body-conclusion structure 
+Sample 1 Descriptive essay (1)
+Question
+What job do you want to do in the future? What are you doing or planning to do for your dream? 
+Answer sample [missing introduction]: <span style="color:red;">I want to work at an aquarium.</span> I <span style="color:red;">have</span> wat<span style="color:red;">ched</span> an anime called <span style="color:red;">W</span>hite <span style="color:red;">Sand</span> <del>sound</del> <span style="color:red;">A</span>quato<span style="color:red;">pe</span>. It made me interest<span style="color:red;">ed in</span> work<span style="color:red;">ing</span> at <span style="color:red;">an</span> aquarium. In order to become <span style="color:red;">an aquarist, I</span> watch YouTube videos. Also, I study about fish and the ocean.
+Comment sample (116 words): Working at an aquarium sounds interesting! I enjoy visiting aquariums, so I appreciate the contribution of the aquarium staff. It’s really amazing that an anime inspired you to choose such a unique job! To make your career choice easy for the reader to understand, you should introduce it at the beginning of your sentence. That’s why I added an extra sentence to your essay. This is the topic sentence of your essay. In the second-last sentence, “become” needs an object. You could write either “In order to become an aquarist” or “In order to work at an aquarium”. 
+English can help you study more about the ocean. I hope you study hard and achieve your goal!
+
+Sample 2 Descriptive essay (2)
+Question
+People work because they need money to live. Apart from money, what are some other reasons why people work?
+Answer sample [extreme case]: I believe <del>, therefore,</del>that people work for their hobb<span style="color:red;">ies</span>. <span style="color:red;">Ano</span>ther reaso<span style="color:red;">n</span> why people want to work <span style="color:red;">is</span> <del>for</del> their famil<span style="color:red;">ies</span>. This is because <del>the</del> family is very important. For example, if a person want<span style="color:red;">s</span> to support <del>their</del> <span style="color:red;">his or her</span> family <span style="color:red;">members,</span> such as father, mother, brother, sister, grandmother, grandfather, <span style="color:red;">and</span> pet<span style="color:red;">, they need to work</span>. <del>They must work for their family.</del> <span style="color:red;">I think, therefore, that people work for their family and hobbies.</span>
+
+Comment sample (144 words):
+
+A conclusion was not mandatory, but the corrector added one to show the usage of “therefore” to connect a consequence.:I agree with you that we work to support our families. Jobs provide opportunities for us to explore opportunities and develop ourselves. This can help us become better people and support our family members. Thus, money is not the only reason. Note that "therefore" is used to describe the result of something. There is nothing before the introduction, so your 1st sentence is not a result. You can use “I believe, therefore, that…” to state a consequence as I showed. The last sentence you wrote was very similar to the 2nd sentence, so I cut it to avoid repetition. By the way, you mentioned that people work for their hobbies too but did not explain it. I suggest you add something about hobbies or not mention it at all. Overall, your ideas are good. Keep practicing, and you will surely improve your writing skills!
+
+Sample 3.1 Opinion/argumentative essay (1)
+Question
+Do you agree that high school students should have their own smartphones? 
+Answer sample [missing conclusion]: I agree that high school students should have their own smartphones. First, smartphones have many useful functions. For example, <span style="color:red;">we can use the</span> phone <span style="color:red;">and</span> L<span style="color:red;">INE to contact others</span>, <span style="color:red;">send</span> emails, <span style="color:red;">and play</span> games. Second, <del>It</del> <span style="color:red;">we</span> can quickly find out what <del>you</del> <span style="color:red;">we</span> can watch <del>the</del> lesson videos anytime and any number of times. <span style="color:red;">For these reasons, it’s good for high school students to have personal smartphones.</span>
+
+Comment sample (138 words):
+You have wonderfully described how students can enjoy various functions if they have their own smartphones. Staying in touch with their family is important for safety reasons. I especially like that you explained how they can use their smartphones to study. Please note people can use a smartphone to search for something, but a smartphone cannot search or find something by itself. That’s why, in your 4th sentence, the subject should be “we” or “students”. Also, when you start a sentence with "For example", it should be followed by a full statement, not just a list of things as you wrote in the 3rd sentence. Lastly, it is good to end your essay with a conclusion to emphasize your opinion. That’s why I added a concluding sentence.
+You have written well. Keep practicing to improve your skills further!
+
+Sample 4 Opinion/argumentative essay (2)
+Question
+Do you think that high school students in Japan should go to a foreign country on a school trip?
+Answer sample [unclear introduction and conclusion]: I agree with this idea for the following reasons. First, we, students, can learn about various cultures through school trips. This is beneficial for getting along with foreigners. Second, we can learn how to speak their native languages, such as English and Chinese. People who speak different languages fluently can pronounce any words easily. For these reasons, I agree. 
+
+Comment sample (131 words) The essay was flawless, so detailed suggestions were very important:
+I agree with you that school trips to foreign countries can be very beneficial for students. Learning a foreign language can open up a whole new world of opportunity. Having the chance to speak a foreign language with native speakers can be educational. You have presented your points well, but it would be better to introduce the topic clearly in the first sentence. That way, the reader can understand the topic even without the question. For example, a clearer topic sentence would be, “I agree that Japanese high school students should go abroad on a school trip for the following reasons.” Then, the conclusion can be, “For these reasons, I agree with the idea.” I appreciate the hard work and effort you've put into this writing. Keep up the good work!
+
+Type 2: Similarity between introduction and conclusion
+
+Sometimes the introduction and the conclusion are identical or almost identical. Such similarity is not good because it makes the essay seem repetitive. Teachers are also very particular about this, so we should guide the students when necessary. Details are in the guide on essay structure.
+Sample 1 Grammatically correct introduction and conclusion
+
+Question
+Which do you think is more effective, studying in the morning or at night?
+Answer sample: I think it is more effective to study at night. First, <del>because</del> my <del>memorial</del> <span style="color:red;">memorization</span> power improves <span style="color:red;">if I study at night</span>. It <span style="color:red;">also</span> makes memoriz<span style="color:red;">ing</span> subjects easier <del>to remember</del>. Second, <del>because</del> I can study for a long time. <del>It</del> <span style="color:red;">Studying at night</span> allows me to study many subjects. That's why I think it is effective to study at night.
+
+Comment sample (131 words):
+I agree with your view on the matter. Studying at night gives us the freedom to take the time we need to understand a subject completely. In the morning, we usually have a lot of things to do, such as having breakfast. I really enjoyed reading your essay. That being said, there are some issues. In the second-last sentence, the meaning of the pronoun “it” was not clear, so I tried to add more details to clarify the meaning. Also, the 1st and the last sentences are almost identical. They are grammatically correct, so I didn’t change them. However, making the last sentence different would improve the quality of your essay a lot. For example, “That’s why I prefer studying at night.”
+Keep practicing more to improve your writing. Take care.
+
+Sample 2 Grammatically incorrect introduction and conclusion
+Question
+Which do you prefer, reading the news online or in the newspaper?
+
+Answer sample: I prefer reading the news online <span style="color:red;">to</span> reading it <span style="color:red;">in a</span> newspaper. I have two reasons. First, I can read it anytime and I can read <span style="color:red;">it</span> quickly <del>it</del> Second<span style="color:red;">,/span> I can get a lot of information <span style="color:red;">that as been</span> <del>there is a</del> put <del>of</del> on the Internet. Therefore, <del>I think</del> I prefer reading the news online <del>reading it newspaper</del>.
+
+Comment sample (124 words): You have explained your preference well. Reading the news online indeed has some advantages. It's more convenient as you can access information from anywhere and at any time through devices with Internet connection. It is free too. Note the corrections that have been made. To show preference, we may write “prefer x to y". For example, “I prefer online news to newspapers.” The 1st and the last sentences that you wrote were the same. However, it’s better to have different expressions in the introduction and the conclusion. You could write the last sentence this way too: “Therefore, I think reading the news online is better than reading it in the newspaper.” 
+This is good work but keep writing more and more to get better!
+
+Logical Issues 
+When an essay or any part of an essay has any illogical information or expression, or anything that affects the overall meaning of the essay, it should be considered a logical issue. You should try to correct it if possible and comment on it. If correcting the illogical aspect is difficult, you should at least address it in the comment. Below are some relevant samples.
+
+Sample 1 Logical issue: illogical points
+Answer sample: In order to reduce <del>hte</del> <span style="color:red;">the</span> number of <span style="color:red;">fatal</span> bicycle acci<span style="color:red;">d</span>ents<span style="color:red;">,</span> I suggest wear<span style="color:red;">ing</span> a helmet. Curren<span style="color:red;">t</span>ly, there are very few people wearing helmets, and it is not stipulated by <span style="color:red;">the</span> Japanese <del>now</del> <span style="color:red;">law</span>. Countermeasures<del>b</del> include asking everyone to wear <del>a</del> <span style="color:red;">s</span> <del>a helmet</del> <span style="color:red;">them</span>. The effect<del>s</del> is that wearing a helmet protects <del>your</del> <span style="color:red;">our</span> head<span style="color:red;">s</span> in the event of a collision. <del>In addition</del> <span style="color:red;">As a result</span>, the number of <span style="color:red;">deadly</span> accidents will decrease <span style="color:red;">,</span> and safety awareness will increase.
+
+Comment sample (121 words):Your essay effectively conveys the importance of wearing helmets to reduce fatal injuries caused by bicycle accidents. I also think that safety should always be our priority because we can't predict what will happen. However, note that wearing a helmet reduces the number of fatal accidents, not accidents in general. Making bicycle lanes can be an effective measure for reducing the number of all types of bicycle accidents. You could write, “In order to reduce the number of bicycle accidents, I suggest making dedicated bicycle lanes.” Here, note that when you use a verb after “suggest”, you need to use the gerund (-ing) form: “I suggest making”. I believe you can overcome such errors with practice. Keep up the good work!
+
+Sample 2 Logical issue: insufficient details
+Answer sample [Also included as a sample for structural issues]: I believe <del>, therefore,</del> that people work for their hobb<span style="color:red;">ies</span>. <span style="color:red;">Ano</span>ther reaso<span style="color:red;">n</span> why people want to work <span style="color:red;">is</span> <del>for</del> their famil<span style="color:red;">ies</span>. This is because <del>the</del>  family is very important. For example, if a person want<span style="color:red;">s</span> to support <del>their</del> <span style="color:red;">his or her</span> family <span style="color:red;">members,</span> such as father, mother, brother, sister, grandmother, grandfather, <span style="color:red;">and</span> pet<span style="color:red;">, they need to work</span> <del>They must work for their family.</del> <span style="color:red;"> I think, therefore, that people work for their family and hobbies.</span>
+
+Comment sample (144 words):I agree with you that we work to support our families. Jobs provide opportunities for us to explore opportunities and develop ourselves. This can help us become better people and support our family members. Thus, money is not the only reason. Note that "therefore" is used to describe the result of something. There is nothing before the introduction, so your 1st sentence is not a result. You can use “I believe, therefore, that…” to start a conclusion as I showed. The last sentence you wrote was very similar to the 2nd sentence, so I cut it to avoid repetition. By the way, you mentioned that people work for their hobbies too but did not explain it. I suggest you add something about hobbies or not mention it at all. Overall, your ideas are good. Keep practicing, and you will surely improve your writing skills!
+
+Sample 3 Logical issue: insufficient details (weak correlation between points)
+Answer sample: <del>Transportation</del> <span style="color:red;">The living environment</span>  is not good in my area. For example, <span style="color:red;">there are</span> unmaintained roads <del>or</del> <span style="color:red;">and</span> vacant houses <span style="color:red;">which ight cause accidents</span>. My area has a lot of families, so <del>much</del> <span style="color:red;">such</span> an enviro<span style="color:red;">n</span>ment can have a negative effect <span style="color:red;">o</span>n them. First of all, I think the gover<span style="color:red;">n</span>ment needs to provide subsidies in order to improve the local environment. With su<span style="color:red;">b</span>sidies from the gover<span style="color:red;">n</span>ment, it would be possible not only to improve roads but also to demolish vacant houses and reuse land. I would <del>like to</del> solve <del>the</del> <span style="color:red;">this</span> problem in my area in this way.
+
+Comment sample (138 words):
+Hi there! A good transportation system is necessary for people living in the area. Government subsidies can indeed solve this problem. It’s good that you also considered the problem of vacant houses. However, note that the transportation system includes roads and vehicles; vacant houses cannot be an example of bad transportation. As you focused on both roads and vacant houses, "the living condition" is a more relevant problem. I added some details to the 2nd sentence to explain how these affect the environment. A clearer topic sentence would be, “If I could solve a problem in my local community, I would solve the problem of the poor living environment.” Also, the second sentence was incomplete; I added verbs and other necessary words to complete it. 
+I am sure you can write even better essays with practice. Good luck!
+
+Sample 4 Logical issue: weak/irrelevant reasoning & examples
+Answer sample: I think young people <del>to</del> <span style="color:red;">should</span> be <span style="color:red;">more</span> interested in politics <span style="color:red;">to ensure social initiatives to support older people who will need care in the future</span>. Young people are not <del>o</del> interested in politics these days and do not <span style="color:red;">participate in</span> election<span style="color:red;">s</span>. If young people stopped voting, a member of parliament with biased views might be elected and lead the country or region in the wrong direction<span style="color:red;">, for example, by reducing welfare support for the elderly</span>. Furthermore, I think young people need to communicate with <del>the</del> older people.I think it is important <del>o</del> to understand the behavior of elderly people, check their health, and confirm their <del>survival</del> <span style="color:red;">well-being</span>.
+
+Comment sample
+(133 words) [The essay has an unclear topic sentence (structural issue) as well as insufficient details (logical issue), so both must be prioritized in the comment.]: That's a very good paragraph! Truly, engaging in politics can help young people improve Japanese society in a way to actively support the elderly. You have done a good job of highlighting this point, and I appreciate your efforts. If politicians make biased decisions, Japan might suffer in various ways. To connect the politicians' actions to elderly people needing care, you should add some details about what kind of wrong decisions they might make. Also, the first sentence should introduce the topic clearly, so I added the necessary details. By the way, in the last sentence, "well-being" is more appropriate than "survival". "Well-being" indicates not only the physical survival of elderly individuals but also their overall health, happiness, and quality of life. Nonetheless, you've written well. Keep up the good work! 
+
+Flawless Essays
+Flawless essays or almost flawless essays have no or minimal errors, making it difficult to come up with helpful guidance to include in the comments. However, all comments must be helpful for the student, so you should provide suggestions for further improvement. 
+
+Below are some samples for you to get an idea about this.
+Sample 1 Flawless essay (1)
+Answer sample: Otani Shohei is the best athlete for me. He is one of the most famous baseball players in the world. He has three big achievements. First, he is one of the few Japanese players active in the MLB. Second, he can do well in both pitching and batting. Third, he won the MVP award in MLB last year. These are his big achievements.
+
+Comment excerpt: Possible helpful guidance:
+It is better to use the full form of acronyms like "MLB" (Major League Baseball) and "MVP" (Most Valuable Player) when you first use them in the essay. Doing so will help all the readers understand what they mean. In the last sentence, you can use the word “significant” instead of “big” to avoid repetition. 
+
+Sample 2 Flawless essay (2)
+Answer sample [3-sentence essay]: I have a bed in my room. I have a desk in my room. I have books in my room.
+
+The question asked for 3 sentences, but that doesn’t mean only 3 simple sentences. The student could use various sentence structures.
+
+Comment excerpt: Possible helpful guidance
+You could make your writing a bit more descriptive by using different types of sentences. For example, you could write, “I have a bed in my room. There is also a wooden desk. On top of the desk, there are some books.” This gives a more detailed description of those things.
+
+Sample 3 Almost flawless essay (1)
+
+Answer sample:Hi, Mary!
+Would you like to go to a baseball game on Friday night? I got two tickets for the baseball game. Let's get together in front of my house. I used to play baseball when I was little. So I'm really looking forward to it. It would be fun if we could go together.
+Bye, Rio
+
+Possible helpful guidance: You could first ask Mary if she wants to go or not so that she does not feel obligated to show up if she doesn't want to. For example, you could write, "If you can come, let's meet up in front of my house."
+
+Sample 4 Almost flawless essay (2)
+Answer sample: More paternity leaves are important for making <span style="color:red;">the</span> child-rearing environment in Japan better. The number of women continuing to work after giving birth has been increasing. However, there is a bias that child-rearing is <span style="color:red;">a</span> mother<span style="color:red;">'</span>s  task and very few fathers take paternity leaves now. We must be aware that both mothers and fathers shou<span style="color:red;">l</span>d collaborate on child-rearing. Moreover, some fathers say their salary would decrease and their promotion may come late because of taking paternity leaves. Therefore<span style="color:red;">,</span> compan<span style="color:red;">ies</span> should establish some systems to make taking paternity leaves easy. In conclusion, more fathers taking paternity leaves must be key for more pleasant child-rearing in Japan.
+
+Comment excerpt: Possible helpful guidance: Fathers currently don’t want to take paternity leaves for the salary and promotion issues, right? To make that clearer, you could write the 5th sentence this way: “Currently, fathers are reluctant to take paternity leaves because their salaries might decrease and their promotion may be delayed.”
+.....................................................
+Question-Answer Mismatches
+There might be cases where the student’s answer doesn’t match the question at all. There can be several reasons for this.
+
+(1) Sometimes students accidentally click on a different question and submit their essay (they often prepare the answer in their notebooks first). In this case, point out the mismatch and briefly suggest double-checking the question before submission.
+
+(2) Some students make the mistake when the topics are similar. You can crosscheck the questions from the SLC Question Information Sheet. In this case, please help the student understand the question with examples to show what the student could write.
+
+(3) Sometimes students simply misunderstand the question. In this case, please help the student understand the question with examples to show what the student could write.
+
+Below are relevant samples.
+Sample 1 Accidental click
+
+Question: What can Japanese society do to support older people who will need care in the future?
+Answer sample:I want to solve the garbage problem. The reason is that we can easily go to the beach and pick up trash. Dirty beaches lead to ocean pollution. It's not good for the environment. Of course, throwing trash <span style="color:red;">into the ocean</span> is not good. <span style="color:red;">It is b</span>ecause some creatures die <del>from</del><span style="color:red;">because of</span> such garbage. we must <del>scoop</del> <span style="color:red;">clean</span> up the earth for the future. It is important for us to find what we can do now.
+
+Comment sample (110 words):
+Thank you for wonderfully explaining why you want to solve the problem of marine pollution. Protecting marine creatures is important for ecological balance. I enjoyed reading your essay. However, the question here asks what Japanese society can do to support older people who will need care in the future. Kindly remember to double-check the question before submitting the answer in the future. As for grammar, note that we do not start a sentence with "because" to explain something from the previous sentence. We can join it with the previous sentence or start with "It is because". Overall, I appreciate your hard work. Keep practicing, and I wish you good luck!
+
+Sample 2 Topic mix-up
+Question
+What traditional Japanese food do you recommend to visitors from abroad?
+
+Answer sample: <span style="color:red;">I</span> <del>i</del> like Japanese food <span style="color:red;">b</span>ecause <span style="color:red;">I</span> <del>i</del> like <del>SYAKE</del> <span style="color:red;">shake (salmon),</span> <del>and MISOSUPU</del> <span style="color:red;">miso soup,</span> and rice<span style="color:red;">. I </span> <del>i</del> don't like bread and eggs <span style="color:red;">b</span>ecause <del>i</del> <span style="color:red;">I</span> like Japanese food<span style="color:red;">.</span> Japanese food is healthy<span style="color:red;">. As I eat Japanese food regularly,</span> my body is <del>Beautiful</del> <span style="color:red;">fit.</span>
+
+The student mistook “What traditional Japanese food do you recommend to visitors from abroad?” for “Do you prefer Western food or Japanese food?”
+Comment sample (119 words): It's great that you like Japanese food a lot! Japanese food has a lot of variety and is very healthy. It is evident from your writing that you are very healthy because you eat Japanese food regularly. You have written about your preference nicely! However, note that the question asked you to write what traditional Japanese food you would like to recommend to foreigners. It means you have to write about a Japanese dish that you want foreigners to try. For example, you could write, "I recommend foreigners try miso soup.” Also, please remember to always capitalize the pronoun “I”. You have put effort into your writing. I'm sure you'll be able to improve your writing by practicing more.
+
+Sample 3 Misunderstanding
+Question
+What is the best season to visit your hometown? 
+
+Answer sample:I like spring best. <span style="color:red;">T</span>here are two reasons. First, <del>A</del> <span style="color:red;">a</span> weather that is neither too hot nor too cold is good. The second reason is <del>because</del> <span style="color:red;">that</span>  there are <del>so</del> many delicious food<del>s</del> items. For these two reasons, I like spring.
+
+Comment sample (122 words): I also like spring! In spring, it is neither too hot nor too cold, and the weather is tolerable and sunny yet not too humid. In my country, spring lasts for a very short time. I understand you like spring, but notice that the question actually asked what is the best season to visit your town. Thus, you should describe what visitors can enjoy if they visit your hometown in spring. For example, you could write what unique food visitors can eat. Also, note that “the second reason is that" is the correct pattern. You can also write, “Second, there are…” Don't lose hope or be afraid. All you need is a little bit of practice. I wish you all the best!
+.........................................................................
+Explanation sample for 3-sentence essays with more than 3 sentences:
+The question asked you to write 3 sentences, but you wrote 
+x sentences. I joined some of your sentences to show you how you could follow the question's instructions and also include all the details.
+
+Explanation sample for 3-sentence essays with fewer than 3 sentences:
+The question asked you to write 3 sentences, but you wrote only 
+x sentences, so I added n more. Please remember to read the question carefully next time.
+....................................................................
+
+Unique Engagement
+The students are young, and they sometimes write naughty things. Some students write creative answers that might leave you brainstorming for your comment. In such cases, you can play along with the student to make your comment enjoyable. Below are relevant samples.
+
+Sample 1 
+Answer sample:I want to be a<span style="color:red;">n e</span>mperor. I respect kings of old. It’s because <del>to</del> <span style="color:red;">they</span> govern<span style="color:red;">ed</span> a country. In addition<span style="color:red;">,</span> <del>to</del> <span style="color:red;">they</span> won <del>a</del> wars. I'm going to start big wars in order to become a king. I <span style="color:red;">will ensure</span> equality for <del>the</del> everyone <span style="color:red;">in my</span> country ruled by law.
+
+Comment sample (131 words):
+That's a very ambitious dream! Being an emperor would be very interesting. This position will come with lots of power and responsibilities. If you start big wars, there will be lots of chances for people to break the law. I think as an emperor, you can ensure equality without wars. If you establish peace and comfort for your citizens, the people of the world will hail you as a great king. The kings of old existed in the past, so their actions are also past events. Because of that, you need to use the past tense when describing them. Also, the things you will do as a king are future possibilities, so you need to use the future tense for that.
+You have good writing skills. Keep up the good work!
+
+Sample 2 
+Answer sample: Global <span style="color:red;">w</span>arming is getting more and more severe. This is sad. <del>(Sad emoji)</del> One effect <span style="color:red;">g</span>lobal <span style="color:red;">w</span>arming has on <del>us</del> <span style="color:red;">Japan</span> is that <span style="color:red;">the</span> lifespan of<span style="color:red;">S</span>amoyed dogs shortens. This is a diabolical disaster. S<span style="color:red;">am</span>oyed gogs are adorable and<span style="color:red;">,</span> frankly<span style="color:red;">,</span> they deserve and everlas<span style="color:red;">t</span>ing happy life We need a solution <span style="color:red;">to</span> prolong their lifespan. I've come up with <del>a totally not physically dangerous</del> <span style="color:red;">an easy</span> solution. I am going to politely decline my urge to breath<span style="color:red;">e</span> so I can stop e<span style="color:red;">m</span>it<span style="color:red;">t</span>ing carbon <span style="color:red;">dioxide</span> <del>hydrates</del>. In fact<span style="color:red;">,</span> I have put my solution into action in the middle of writing this<span style="color:red;">, and now</span> my mind is not <span style="color:red;">functioning clearly.</span> <del> thinnkk cleaarlyy m,mm my vision it's get tting ddarkker,,uh.</del>
+
+Comment sample(136 words) [The comment instructs the student to write appropriately without discouraging the student’s creativity]:You are absolutely right. It is true that Samoyed dogs are quite adorable and deserve a better fate. However, I would prefer if your solution didn't result in harming yourself. I hope you are breathing again! Actually, not breathing is physically dangerous, so I changed that part. I think you could focus on explaining how global warming is affecting the health of Samoyed dogs and other animals in Japan, which will affect Japan’s biodiversity. The ending to your essay was full of suspense, but I had to correct it to make it grammatically sensible. I hope you will write in a formal tone when submitting the essay to your teacher.
+You seem to be good at creative writing. I am actually quite impressed as your essay was very humorous. I hope you will keep writing more!
+
+Incomplete submission
+Some students may not write complete essays because they have little time or little confidence. We need to guide the student to try better next time. Do not express negative remarks about the submission being incomplete.
+
+Answer sample: I like dogs better than cats. There are two reasons. First,<del>The</del> dog<span style="color:red;">s</span> usually help human<span style="color:red;">s</span> in many diff<span style="color:red;">e</span>rent ar<span style="color:red;">e</span>as<span style="color:red;">, f</span>or example, <del>Hunt</del> <span style="color:red;">hunting</span> <del>The</del> robber<span style="color:red;">s</span>, <span style="color:red;">g</span>iving directions to a blind person, <span style="color:red;">and finding lost things</span> <del>Finding Lost and Found</del>. Secondly, dogs are cuter than cats <del>Because</del> <span style="color:red;">Also,</span> dogs are more obedient to people. <del>Secondly, dogs are cuter than cats. Because dogs are more obedient to people.</del> That's all <span style="color:red;">,</span> thank you.<del>and</del> I'm sorry I didn't reach the word limit.<del>a a a a a a a</del>
+
+Comment sample (114 words): You have nicely expressed your preference with some specific details. I can understand why you like dogs more than cats! Dogs are known for their friendliness and obedience. I often watch cute dog videos on SNS! I’m sorry to see that you could not finish your answer for some reason. Hopefully, you can complete it next time! You could write about your feelings about dogs. For example, “I love playing with dogs because it makes me happy.” The 5th sentence is not a reason for the 4th sentence, so “because” was not suitable. You can use “also” or “moreover” to introduce it as an additional point. I believe you can do better. Keep practicing!
+
+Copy-pasting by Student
+If you notice that the student copied from somewhere, you should suggest something different in the comment to make the essay unique. Do not reprimand the student for copying.
+Question
+What is your best childhood memory?
+Answer sample:I’ve been working hard so long. It seems like pain has been my only friend. My fragile heart<span style="color:red;">'s</span> <del>it</del> been done so wrong. I wondered if I’d ever <span style="color:red;">heal</span> again. Just like all the seasons never stay the same, all around me<span style="color:red;">,</span> I can feel a change.
+
+Inappropriate Answer
+There can be two types of inappropriate answers:
+
+(1) Random letters/words: These are answers that have no sensible content, so there is nothing for you to correct. In this case, you should write an encouraging comment to motivate the student to try better next time. 
+
+(2) Disturbing content: When the student expresses something disturbing (i.e., immoral thoughts, criminal tendency, unethical remarks such as racist/sexist views), that content can be considered inappropriate. The comment should still have the necessary components. If possible, you should gently point out the problem with the content.
+Below are some samples to illustrate the cases:
+
+Sample 1 Random letters
+Answer sample:A a a a a a a a a a a a a a a aa a a a a aa a a a aa a a a aa a a a a a a aa a a a a a a aa a a a aa a a a a a a a a a a aa a a aa a a  a 
+Comment sample(104 words):
+Thank you for attempting the answer. I think you are afraid of making mistakes. Please don’t be afraid! You can learn from your mistakes. We are here to help you. Please note that the question was, “What kind of job do you want to do in the future?” In my case, I want to be a video game developer in the future. I like video games, and I am studying hard every day to achieve my goal. Like this, you can write about a job you want to do in the future.
+I hope you can write a complete essay next time. Good luck!
+
+Sample 2 Random words
+Answer sample:Natural is like self driving a car this is a drive of self driving ccar that we happened to have at udacity made into a spin off call voyage we have already an autonomous vehicle all the autonomous vehicles manufactured are reportedly efficient power elements velody is mounted on a robot car autonomous car and drones that have been utilized to sense the surrounding environments will be critical to self driving care safety.
+
+Comment sample (112 words): Hi there! Self-driving cars have great potential to become the main transportation method in the near future. There are several benefits of these vehicles though there are also some issues related to safety. I believe you wanted to point out that self-driving cars use fuel efficiently, and that the technology to sense the surrounding environment will be critical to the safety of autonomous cars. These are great points! I hope you will be able to express your ideas clearly next time. Keep practicing and learning, and you’ll be able to write complete essays very soon. Also, don’t be scared of making mistakes. We are here to help you correct them. Best wishes!
+
+Sample 3 Disturbing content (1): criminal tendency
+
+Answer sample:My hobby is eating convenience store food without paying. I started <span style="color:red;">this</span>  hobby when I was two years old. The first thing I ate without paying was popcorn. I start<span style="color:red;">ed</span> do<span style="color:red;">ing</span> that on the day my teacher g<span style="color:red;">o</span>t angry. This hobby can save me money<span style="color:red;">,</span> and I<span style="color:red;">can</span> travel to Mongolia and Venezuela <span style="color:red;">with that</span>. What about you?
+
+Comment sample (117 words):A hobby is really important for a person’s mental and physical well-being. It’s great that you have a hobby. I wonder if you also enjoy traveling. A trip to Mongolia or Venezuela would be great. As far as I know, eating convenience store food without paying is stealing. I guess you are joking! I hope you don’t actually do that as stealing is a bad habit. Anyway, when writing about a past event, you should use the past tense. I have corrected the tense in your 4th sentence. 
+I can see your efforts in your essay. I’m sure you can do better if you practice writing more. We are always here to help you. Best of luck!
+
+Sample 4 Disturbing content (2): profanity
+Answer sample: My hobby is playing <del>a</del> <span style="color:red;">video</span> game<span style="color:red;">s</span> since I was <span style="color:red;">an</span> element<span style="color:red;">ar</span>y school student <span style="color:red;">.</span> Recently<span style="color:red;">,</span> a <del>cassette</del> <span style="color:red;">video game</span> called Splatoon 3 was released <span style="color:red;">.</span> I was so excited<span style="color:red;">!</span> I always call <span style="color:red;">my</span> friends every night. It is so fun that I want to quit <del>the</del> school right now. In this way, I got <del>sick,</del> <span style="color:red;">a video</span> game addiction. <del>Fuck you!</del>
+
+Comment sample (141 words):It’s great to do things you enjoy, but sometimes one can go too far with a hobby. The good part is that you have realized that you have developed a video game addiction. Giving yourself a strict time limit for daily gaming may help you. Any kind of addiction can be tough to overcome, so don’t be afraid to get help. Coming to your writing, since you mentioned Splatoon 3, which is a video game, you should mention in the topic sentence that your hobby is playing video games. Also, you could use “sick” like this: “In this way, I got sick. I am now addicted to gaming.” I understand that you must be frustrated, but please refrain from using swear words in your academic writing. Keep working hard to improve your health as well as your English skills. Good luck!
